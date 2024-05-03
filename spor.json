@@ -1,19 +1,37 @@
 {
   "channel": [
     {
-      "link": "https://cinque.0f7fe8875cba48.shop/q/www.selcuksportshd1207.xyz/601/g.acdwatercn.shop/chunklist_hd.m3u8",
       "assets": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-      "name": "BEIN SPORT 1"
+      "name": "BEIN SPORT 1",
+      "links": [
+        {
+          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/_Qj0IUBRAdGjXa2o3VGfho6JGSYNAy_w_Vn0PT7IA7ITgU8_g0twJ7RW8ehF9d4RW-y6rMysqUhKxJk6IeUiBQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
     },
     {
-      "link": "https://corsproxy.org/?https://playhdnew5.buzz/yayinss.m3u8",
       "assets": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
-      "name": "S SPORT 1"
+      "name": "S SPORT 1",
+      "links": [
+        {
+          "linkmovie": "https://corsproxy.org/?https://playhdnew5.buzz/yayinss.m3u8",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
     },
     {
-      "link": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/beinsport_2.m3u8?alt=media&token=76743f27-de87-488a-b891-8a9259c869d0",
       "assets": "https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",
-      "name": "BEIN SPORT 2"
+      "name": "BEIN SPORT 2",
+      "links": [
+        {
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/beinsport_2.m3u8?alt=media&token=76743f27-de87-488a-b891-8a9259c869d0",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
     }
   ]
 }
