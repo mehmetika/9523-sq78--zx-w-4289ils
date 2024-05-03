@@ -1,7 +1,5 @@
 {
   "channel": [
-    {
-      "channels": [
         {
           "assets": "https://yt3.googleusercontent.com/trS1BptIbThrleOUAQ5Lz9ghblH2MzxeXdCd71HZrW4AHR6re-kmJ5ZMxXlTrIxpPwHfYEVQ=s900-c-k-c0x00ffffff-no-rj",
           "name": "TRT 1",
@@ -409,7 +407,5 @@
             }
           ]
         }
-      ]
-    }
   ]
 }
