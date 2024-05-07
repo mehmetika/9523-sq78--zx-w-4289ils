@@ -1,6 +1,17 @@
 {
   "channel": [
     {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+      "name": "Dublör (Fall Guy)",
+      "links": [
+        {
+          "linkmovie": "https://9str-m3u8v1.playm4u.xyz/m3u8v2/1080/66307fa8df54f1fc26201b73/6b1b421737f28aab0b921c9e82511997/80fb88fb212c0efc296ea5df06fdd985/1715127583/bc936904b2b32bfe8506adb542a8b618.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14367573.vtt"
+        }
+      ]
+    },
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BOGUwMTkwZjQtZTE1ZS00YWI0LWI0NTEtZjZjNDMzYjAwYjBjXkEyXkFqcGdeQXVyODI2Mjg5ODA@._V1_.jpg",
       "name": "Kung Fu Panda 4",
       "links": [
