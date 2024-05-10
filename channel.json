@@ -203,7 +203,7 @@
           "name": "MINIKA ÇOCUK",
           "links": [
             {
-              "linkmovie": "https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_720p.m3u8?e=1705481314&st=fz9GBc42HzkHxtheLE0Mew&sid=62qhunlijr9x&app=8e9e79c3-44e3-4a41-a921-1d8f0e7887c0&ce=3",
+              "linkmovie": "http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8",
               "language": "",
               "subtitle": ""
             }
@@ -214,7 +214,7 @@
           "name": "MINIKA GO",
           "links": [
             {
-              "linkmovie": "https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1705481314&st=l1Mtw8w9FwOkJ5VhCsG-ew&sid=62qhunlijr9x&app=1fcad0bb-36e4-4c54-b046-c2ab4848c740&ce=3",
+              "linkmovie": "http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8",
               "language": "",
               "subtitle": ""
             }
