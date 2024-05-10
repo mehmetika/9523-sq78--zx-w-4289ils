@@ -390,7 +390,7 @@
           "name": "AL QURANN",
           "links": [
             {
-              "linkmovie": "http://210.210.155.35/qwr9ew/s/s28/01.m3u8",
+              "linkmovie": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
               "language": "",
               "subtitle": ""
             }
@@ -401,7 +401,7 @@
           "name": "AL SUNNAH",
           "links": [
             {
-              "linkmovie": "http://210.210.155.35/qwr9ew/s/s27/01.m3u8",
+              "linkmovie": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
               "language": "",
               "subtitle": ""
             }
