@@ -203,7 +203,7 @@
           "name": "MINIKA ÇOCUK",
           "links": [
             {
-              "linkmovie": "http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8",
+              "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/minikacocuk.m3u8?alt=media&token=197b296f-17fd-49c1-987f-e84e020c1a8c",
               "language": "",
               "subtitle": ""
             }
@@ -214,7 +214,7 @@
           "name": "MINIKA GO",
           "links": [
             {
-              "linkmovie": "http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8",
+              "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/minikago.m3u8?alt=media&token=f6343498-0180-4101-9706-800cf2a8699b",
               "language": "",
               "subtitle": ""
             }
