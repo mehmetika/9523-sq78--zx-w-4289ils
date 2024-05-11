@@ -1,6 +1,62 @@
 {
   "channel": [
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMzhkNzVkNDYtNmE2Zi00ZTk1LTk2OWYtOTU5NWM5OWQ2Zjc0XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
+      "name": "Shogun",
+      "links": [
+        {
+          "linkmovie": "https://miguel36.oceansaver.in/pacific/?c8A3H7RA281vJYUUXJQfBJMqSH4",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_2.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun2.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        },
+        {
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_3.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun3.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        },
+{
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_4.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun4.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        },
+{
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_5.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun5.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        },
+{
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_6.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun6.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        },
+{
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_7.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun7.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        },
+{
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_8.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun8.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        },
+{
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_9.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 9. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun9.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        },
+{
+          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_10.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
+          "language": "1. Sezon 10. Bölüm",
+          "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun10.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
+        }
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BZjFlZjljNDctODIyZi00ZmZkLWE4OWYtMDkxMTZkNmM2OGMyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
       "name": "Dark",
       "links": [
