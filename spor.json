@@ -1,30 +1,30 @@
 {
   "channel": [
     {
-      "assets": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-      "name": "BEIN SPORT 1",
+      "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/granada_real.png?alt=media&token=6f094549-d874-4905-a566-46256c2aa492",
+      "name": "Granada-Real Madrid",
       "links": [
         {
-          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/fqbKVDRJzmX6WF-uC9R0HTMDyT4CVUEn3EFwrVvXqdy1WribeWGRROY-YrHMX2AqeAzP4gYbbLau4OtimMulmg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/1kQtWB2lv7TO2vzV4e4Z-haxs_nofaGz9O0G2dZrS9dA4zopv0Ky05q__ZWShkI6KUKTaVLm-wB_MtGE64Xbpg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live",
           "language": "",
           "subtitle": ""
         }
       ]
     },
     {
-      "assets": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
-      "name": "S SPORT 1",
+      "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/granada_real.png?alt=media&token=6f094549-d874-4905-a566-46256c2aa492",
+      "name": "Granada-Real Madrid",
       "links": [
         {
-          "linkmovie": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/PrN68IVAGIuKnpIEuIbgXXkRR7kbgBJr3_OVbhBKrcZIRAevcSy_m2EL3w_hazZqfL4Z8HzZhvBQhdYo98e55Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/1kQtWB2lv7TO2vzV4e4Z-haxs_nofaGz9O0G2dZrS9dA4zopv0Ky05q__ZWShkI6KUKTaVLm-wB_MtGE64Xbpg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live",
           "language": "",
           "subtitle": ""
         }
       ]
     },
     {
-      "assets": "https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",
-      "name": "BEIN SPORT 2",
+      "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/granada_real.png?alt=media&token=6f094549-d874-4905-a566-46256c2aa492",
+      "name": "Granada-Real Madrid",
       "links": [
         {
           "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XrwVVgFLb-gGtWWrGWBUSAU8jVdx0dKs8xzKmitO1xzBl9nJqcjWo6ldZLI7UiIrNf_hpzJNTYE382cVDjMcbg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
