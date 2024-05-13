@@ -1,29 +1,5 @@
 {
   "channel": [
-
-    {
-      "assets": "https://m.media-amazon.com/images/M/MV5BYjZjYTllOWItYjUxMC00NTA0LWI1ZjItNjE5YjVhZjRmYmYwXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_FMjpg_UX1000_.jpg",
-      "name": "Adaletin bu mu dünya",
-      "links": [
-        {
-          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/medcezir_1.m3u8?alt=media&token=39a9442a-d827-4aec-9a5d-c68783def4e4",
-          "language": "Türkçe Altyazı",
-          "subtitle": ""
-        }
-      ]
-    },
-
-    {
-      "assets": "https://m.media-amazon.com/images/M/MV5BYjZjYTllOWItYjUxMC00NTA0LWI1ZjItNjE5YjVhZjRmYmYwXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_FMjpg_UX1000_.jpg",
-      "name": "Adalet 3",
-      "links": [
-        {
-          "linkmovie": "https://strasbourg.cdn77.host/hls2/02/00024/t31dzfi93ebi_n/index-v1-a1.m3u8?t=ax_xCEgmFvY4t4CKIzI3mBFFN65BKXh4CEy5jeMS85I&s=1715429426&e=43200&f=124894&srv=x1&i=0.0&sp=5000&fr=t31dzfi93ebi&p1=strasbourg&p2=strasbourg",
-          "language": "Türkçe Altyazı",
-          "subtitle": ""
-        }
-      ]
-    },
     {
       "assets": "https://m.media-amazon.com/images/M/MV5BYjZjYTllOWItYjUxMC00NTA0LWI1ZjItNjE5YjVhZjRmYmYwXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_FMjpg_UX1000_.jpg",
       "name": "Adalet 3",
