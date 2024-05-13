@@ -1,6 +1,237 @@
 {
   "channel": [
-{
+    {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+      "name": "Mr. Robot",
+      "links": [
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10401/1080p.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10401/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10402/1080p.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10402/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10403/1080p.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10403/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10404/1080p.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10404/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10405/1080p.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10405/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10406/1080p.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10406/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10407/1080p.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10407/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10408/1080p.m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10408/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10409/1080p.m3u8",
+          "language": "1. Sezon 9. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10409/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10410/1080p.m3u8",
+          "language": "1. Sezon 10. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10410/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10411/1080p.m3u8",
+          "language": "2. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10411/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10412/1080p.m3u8",
+          "language": "2. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10412/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10413/1080p.m3u8",
+          "language": "2. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10413/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10414/1080p.m3u8",
+          "language": "2. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10414/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10415/1080p.m3u8",
+          "language": "2. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10415/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10416/1080p.m3u8",
+          "language": "2. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10416/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10417/1080p.m3u8",
+          "language": "2. Sezon 7. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10417/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10418/1080p.m3u8",
+          "language": "2. Sezon 8. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10418/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10419/1080p.m3u8",
+          "language": "2. Sezon 9. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10419/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10420/1080p.m3u8",
+          "language": "2. Sezon 10. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10420/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10421/1080p.m3u8",
+          "language": "2. Sezon 11. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10421/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10422/1080p.m3u8",
+          "language": "2. Sezon 12. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10422/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10423/1080p.m3u8",
+          "language": "3. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10423/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10424/1080p.m3u8",
+          "language": "3. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10424/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10425/1080p.m3u8",
+          "language": "3. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10425/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10426/1080p.m3u8",
+          "language": "3. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10426/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10427/1080p.m3u8",
+          "language": "3. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10427/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10428/1080p.m3u8",
+          "language": "3. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10428/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10429/1080p.m3u8",
+          "language": "3. Sezon 7. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10429/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10430/1080p.m3u8",
+          "language": "3. Sezon 8. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10430/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10431/1080p.m3u8",
+          "language": "3. Sezon 9. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10431/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10432/1080p.m3u8",
+          "language": "3. Sezon 10. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10432/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10433/1080p.m3u8",
+          "language": "3. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10433/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10434/1080p.m3u8",
+          "language": "3. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10434/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10435/1080p.m3u8",
+          "language": "3. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10435/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10436/1080p.m3u8",
+          "language": "3. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10436/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10437/1080p.m3u8",
+          "language": "3. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10437/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10438/1080p.m3u8",
+          "language": "3. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10438/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10439/1080p.m3u8",
+          "language": "3. Sezon 7. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10439/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10440/1080p.m3u8",
+          "language": "3. Sezon 8. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10440/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10441/1080p.m3u8",
+          "language": "3. Sezon 9. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10441/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10442/1080p.m3u8",
+          "language": "3. Sezon 10. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10442/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10443/1080p.m3u8",
+          "language": "3. Sezon 11. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10443/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10444/1080p.m3u8",
+          "language": "3. Sezon 12. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10444/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10445/1080p.m3u8",
+          "language": "3. Sezon 13. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10445/tr.vtt"
+        }
+      ]
+    },
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
       "name": "Prison Break",
       "links": [
@@ -9,459 +240,449 @@
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10001/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10002/1080p.m3u8",
           "language": "1. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10002/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10003/1080p.m3u8",
           "language": "1. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10003/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10004/1080p.m3u8",
           "language": "1. Sezon 4. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10004/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10005/1080p.m3u8",
           "language": "1. Sezon 5. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10005/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10006/1080p.m3u8",
           "language": "1. Sezon 6. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10006/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10007/1080p.m3u8",
           "language": "1. Sezon 7. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10007/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10008/1080p.m3u8",
           "language": "1. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10008/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10009/1080p.m3u8",
           "language": "1. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10009/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10010/1080p.m3u8",
           "language": "1. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10010/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10011/1080p.m3u8",
           "language": "1. Sezon 11. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10011/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10012/1080p.m3u8",
           "language": "1. Sezon 12. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10012/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10013/1080p.m3u8",
           "language": "1. Sezon 13. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10013/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10014/1080p.m3u8",
           "language": "1. Sezon 14. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10014/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10015/1080p.m3u8",
           "language": "1. Sezon 15. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10015/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10016/1080p.m3u8",
           "language": "1. Sezon 16. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10016/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10017/1080p.m3u8",
           "language": "1. Sezon 17. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10017/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10018/1080p.m3u8",
           "language": "1. Sezon 18. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10018/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10019/1080p.m3u8",
           "language": "1. Sezon 19. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10019/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10020/1080p.m3u8",
           "language": "1. Sezon 20. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10020/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10021/1080p.m3u8",
           "language": "1. Sezon 21. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10021/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10022/1080p.m3u8",
           "language": "1. Sezon 22. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10022/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10023/1080p.m3u8",
           "language": "2. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10023/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10024/1080p.m3u8",
           "language": "2. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10024/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10025/1080p.m3u8",
           "language": "2. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10025/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10026/1080p.m3u8",
           "language": "2. Sezon 4. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10026/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10027/1080p.m3u8",
           "language": "2. Sezon 5. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10027/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10028/1080p.m3u8",
           "language": "2. Sezon 6. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10028/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10029/1080p.m3u8",
           "language": "2. Sezon 7. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10029/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10030/1080p.m3u8",
           "language": "2. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10030/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10031/1080p.m3u8",
           "language": "2. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10031/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10032/1080p.m3u8",
           "language": "2. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10032/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10033/1080p.m3u8",
           "language": "2. Sezon 11. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10033/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10034/1080p.m3u8",
           "language": "2. Sezon 12. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10034/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10035/1080p.m3u8",
           "language": "2. Sezon 13. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10035/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10036/1080p.m3u8",
           "language": "2. Sezon 14. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10036/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10037/1080p.m3u8",
           "language": "2. Sezon 15. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10037/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10038/1080p.m3u8",
           "language": "2. Sezon 16. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10038/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10039/1080p.m3u8",
           "language": "2. Sezon 17. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10039/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10040/1080p.m3u8",
           "language": "2. Sezon 18. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10040/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10041/1080p.m3u8",
           "language": "2. Sezon 19. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10041/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10042/1080p.m3u8",
           "language": "2. Sezon 20. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10042/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10043/1080p.m3u8",
           "language": "2. Sezon 21. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10043/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10044/1080p.m3u8",
           "language": "2. Sezon 22. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10044/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10045/1080p.m3u8",
           "language": "3. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10045/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10046/1080p.m3u8",
           "language": "3. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10046/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10047/1080p.m3u8",
           "language": "3. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10047/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10048/1080p.m3u8",
           "language": "3. Sezon 4. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10048/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10049/1080p.m3u8",
           "language": "3. Sezon 5. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10049/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10050/1080p.m3u8",
           "language": "3. Sezon 6. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10050/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10051/1080p.m3u8",
           "language": "3. Sezon 7. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10051/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10052/1080p.m3u8",
           "language": "3. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10052/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10053/1080p.m3u8",
           "language": "3. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10053/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10054/1080p.m3u8",
           "language": "3. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10054/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10055/1080p.m3u8",
           "language": "3. Sezon 11. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10055/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10056/1080p.m3u8",
           "language": "3. Sezon 12. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10056/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10057/1080p.m3u8",
           "language": "3. Sezon 13. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10057/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10058/1080p.m3u8",
           "language": "4. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10058/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10059/1080p.m3u8",
           "language": "4. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10059/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10060/1080p.m3u8",
           "language": "4. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10060/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10061/1080p.m3u8",
           "language": "4. Sezon 4. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10061/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10062/1080p.m3u8",
           "language": "4. Sezon 5. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10062/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10063/1080p.m3u8",
           "language": "4. Sezon 6. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10063/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10064/1080p.m3u8",
           "language": "4. Sezon 7. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10064/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10065/1080p.m3u8",
           "language": "4. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10065/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10066/1080p.m3u8",
           "language": "4. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10066/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10067/1080p.m3u8",
           "language": "4. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10067/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10068/1080p.m3u8",
           "language": "4. Sezon 11. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10068/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10069/1080p.m3u8",
           "language": "4. Sezon 12. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10069/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10070/1080p.m3u8",
           "language": "4. Sezon 13. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10070/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10071/1080p.m3u8",
           "language": "4. Sezon 14. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10071/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10072/1080p.m3u8",
           "language": "4. Sezon 15. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10072/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10073/1080p.m3u8",
           "language": "4. Sezon 16. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10073/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10074/1080p.m3u8",
           "language": "4. Sezon 17. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10074/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10075/1080p.m3u8",
           "language": "4. Sezon 18. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10075/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10076/1080p.m3u8",
           "language": "4. Sezon 19. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10076/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10077/1080p.m3u8",
           "language": "4. Sezon 20. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10077/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10078/1080p.m3u8",
           "language": "4. Sezon 21. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10078/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10079/1080p.m3u8",
           "language": "4. Sezon 22. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10079/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10080/1080p.m3u8",
           "language": "4. Sezon 23. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10080/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10081/1080p.m3u8",
           "language": "5. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10081/tr.vtt"
         },
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10082/1080p.m3u8",
           "language": "5. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10082/tr.vtt"
         },
-
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10083/1080p.m3u8",
           "language": "5. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10083/tr.vtt"
         },
-
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10084/1080p.m3u8",
           "language": "5. Sezon 4. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10084/tr.vtt"
         },
-
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10085/1080p.m3u8",
           "language": "5. Sezon 5. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10085/tr.vtt"
         },
-
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10086/1080p.m3u8",
           "language": "5. Sezon 6. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10086/tr.vtt"
         },
-
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10087/1080p.m3u8",
           "language": "5. Sezon 7. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10087/tr.vtt"
         },
-
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10088/1080p.m3u8",
           "language": "5. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10088/tr.vtt"
         },
-
-  {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10089/1080p.m3u8",
           "language": "5. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10089/tr.vtt"
         }
-
-
-
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
       "name": "Breaking Bad",
       "links": [
@@ -777,7 +998,7 @@
         }
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BMTk1NjE5MjUwM15BMl5BanBnXkFtZTgwODk3NTk2OTE@._V1_FMjpg_UX1000_.jpg",
       "name": "11.22.63",
       "links": [
@@ -786,48 +1007,44 @@
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/1551/tr.vtt"
         },
-                {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/1552/1080p.m3u8",
           "language": "1. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/1552/tr.vtt"
         },
-        
         {
           "linkmovie": "https://storage.diziyou.co/episodes/1553/1080p.m3u8",
           "language": "1. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/1553/tr.vtt"
         },
-        
         {
           "linkmovie": "https://storage.diziyou.co/episodes/1554/1080p.m3u8",
           "language": "1. Sezon 4. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/1554/tr.vtt"
         },
-                {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/1555/1080p.m3u8",
           "language": "1. Sezon 5. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/1555/tr.vtt"
         },
-        
         {
           "linkmovie": "https://storage.diziyou.co/episodes/1556/1080p.m3u8",
           "language": "1. Sezon 6. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/1556/tr.vtt"
         },
-                {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/1557/1080p.m3u8",
           "language": "1. Sezon 7. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/1557/tr.vtt"
         },
-                {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/1558/1080p.m3u8",
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/1558/tr.vtt"
         }
-        
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_FMjpg_UX1000_.jpg",
       "name": "The Queen's Gambit",
       "links": [
@@ -836,40 +1053,39 @@
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/651/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/652/1080p.m3u8",
           "language": "1. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/652/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/653/1080p.m3u8",
           "language": "1. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/653/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/654/1080p.m3u8",
           "language": "1. Sezon 4. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/654/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/655/1080p.m3u8",
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/655/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/656/1080p.m3u8",
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/656/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/657/1080p.m3u8",
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/657/tr.vtt"
         }
-        
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg",
       "name": "Sherlock",
       "links": [
@@ -878,70 +1094,69 @@
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12801/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12802/1080p.m3u8",
           "language": "1. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12802/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12803/1080p.m3u8",
           "language": "1. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12803/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12804/1080p.m3u8",
           "language": "2. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12804/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12805/1080p.m3u8",
           "language": "2. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12805/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12806/1080p.m3u8",
           "language": "2. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12806/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12807/1080p.m3u8",
           "language": "3. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12807/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12808/1080p.m3u8",
           "language": "3. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12808/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12809/1080p.m3u8",
           "language": "3. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12809/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12810/1080p.m3u8",
           "language": "3. Sezon 4. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12810/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12811/1080p.m3u8",
           "language": "4. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12811/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12812/1080p.m3u8",
           "language": "4. Sezon 2. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12812/tr.vtt"
         },
- {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/12813/1080p.m3u8",
           "language": "4. Sezon 3. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/12813/tr.vtt"
         }
-        
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BZjFlZjljNDctODIyZi00ZmZkLWE4OWYtMDkxMTZkNmM2OGMyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
       "name": "Dark",
       "links": [
@@ -985,17 +1200,17 @@
           "language": "1. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10708/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10709/1080p.m3u8",
           "language": "1. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10709/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10710/1080p.m3u8",
           "language": "1. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10710/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10711/1080p.m3u8",
           "language": "2. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10711/tr.vtt"
@@ -1035,7 +1250,7 @@
           "language": "2. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10718/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/10719/1080p.m3u8",
           "language": "3. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/10719/tr.vtt"
@@ -1077,7 +1292,7 @@
         }
       ]
     },
-	{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BNmM4ODU1MzItODYyYi00Y2U0LWFjZjItYTRhZWIwOGMyZTRhXkEyXkFqcGdeQXVyNjc2NTQ4Nzk@._V1_FMjpg_UX1000_.jpg",
       "name": "House of Cards",
       "links": [
@@ -1121,32 +1336,32 @@
           "language": "1. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13358/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13359/1080p.m3u8",
           "language": "1. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13359/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13360/1080p.m3u8",
           "language": "1. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13360/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13361/1080p.m3u8",
           "language": "1. Sezon 11. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13361/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13362/1080p.m3u8",
           "language": "1. Sezon 12. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13362/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13363/1080p.m3u8",
           "language": "1. Sezon 13. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13363/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13364/1080p.m3u8",
           "language": "2. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13364/tr.vtt"
@@ -1186,32 +1401,32 @@
           "language": "2. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13371/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13372/1080p.m3u8",
           "language": "2. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13372/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13373/1080p.m3u8",
           "language": "2. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13373/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13374/1080p.m3u8",
           "language": "2. Sezon 11. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13374/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13375/1080p.m3u8",
           "language": "2. Sezon 12. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13375/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13376/1080p.m3u8",
           "language": "2. Sezon 13. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13376/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13364/1080p.m3u8",
           "language": "3. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13364/tr.vtt"
@@ -1251,34 +1466,34 @@
           "language": "3. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13371/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13372/1080p.m3u8",
           "language": "3. Sezon 9. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13372/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13373/1080p.m3u8",
           "language": "3. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13373/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13374/1080p.m3u8",
           "language": "3. Sezon 11. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13374/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13375/1080p.m3u8",
           "language": "3. Sezon 12. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13375/tr.vtt"
         },
-		{
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/13376/1080p.m3u8",
           "language": "3. Sezon 13. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/13376/tr.vtt"
         }
       ]
     },
- {
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BNWU3ZjEzZjctYjE1MC00NjY2LWFlYWQtMjFhYTAyMGQ3MGIxXkEyXkFqcGdeQXVyMTAyOTQ3NjM1._V1_FMjpg_UX1000_.jpg",
       "name": "See",
       "links": [
@@ -1324,7 +1539,7 @@
         }
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BMzhkNzVkNDYtNmE2Zi00ZTk1LTk2OWYtOTU5NWM5OWQ2Zjc0XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
       "name": "Shogun",
       "links": [
@@ -1343,44 +1558,44 @@
           "language": "1. Sezon 3. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun3.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_4.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
           "language": "1. Sezon 4. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun4.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_5.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
           "language": "1. Sezon 5. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun5.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_6.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
           "language": "1. Sezon 6. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun6.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_7.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
           "language": "1. Sezon 7. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun7.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_8.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
           "language": "1. Sezon 8. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun8.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_9.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
           "language": "1. Sezon 9. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun9.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/Shogun_10.m3u8?alt=media&token=ef0d9790-98bf-4243-81c4-41845eb547f0",
           "language": "1. Sezon 10. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Shogun10.vtt?alt=media&token=ce7f9cea-3c24-4330-a423-7b211fff7f47"
         }
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BZDAwOWMzY2UtN2M2OC00Zjk4LWI0OGYtZTRmN2U5MjBjNTJlXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
       "name": "Snowdrop",
       "links": [
@@ -1399,74 +1614,74 @@
           "language": "1. Sezon 3. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_4.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 4. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_5.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 5. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_6.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 6. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_7.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 7. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_8.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 8. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_9.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 9. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_10.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 10. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_11.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 11. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_12.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 12. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_13.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 13. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_14.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 14. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_15.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 15. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/snowdrop_16.m3u8?alt=media&token=aaca9879-b90f-4d86-90a2-72ad5543ed13",
           "language": "1. Sezon 16. Bölüm",
           "subtitle": ""
         }
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@._V1_FMjpg_UX1000_.jpg",
       "name": "The Last Kingdom",
       "links": [
@@ -1510,7 +1725,7 @@
           "language": "1. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/16608/tr.vtt"
         },
-               {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/16609/1080p.m3u8",
           "language": "2. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/16609/tr.vtt"
@@ -1550,7 +1765,7 @@
           "language": "2. Sezon 8. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/16616/tr.vtt"
         },
-               {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/16617/1080p.m3u8",
           "language": "3. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/16617/tr.vtt"
@@ -1600,7 +1815,7 @@
           "language": "3. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/16626/tr.vtt"
         },
-               {
+        {
           "linkmovie": "https://storage.diziyou.co/episodes/16627/1080p.m3u8",
           "language": "4. Sezon 1. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/16627/tr.vtt"
@@ -1649,7 +1864,7 @@
           "linkmovie": "https://storage.diziyou.co/episodes/16636/1080p.m3u8",
           "language": "4. Sezon 10. Bölüm",
           "subtitle": "https://storage.diziyou.co/subtitles/16636/tr.vtt"
-        },            
+        },
         {
           "linkmovie": "https://storage.diziyou.co/episodes/16637/1080p.m3u8",
           "language": "5. Sezon 1. Bölüm",
@@ -1808,7 +2023,7 @@
         }
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BMTM4NzllYWQtOWU0Ni00YWVkLThmYzgtYzQzMjc4Y2EyMTJhXkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",
       "name": "Reborn Rich",
       "links": [
@@ -2129,57 +2344,57 @@
           "language": "2. Sezon 9. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20210.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 10. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20211.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 11. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20212.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 12. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20213.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 13. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20214.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 14. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20215.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 15. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20216.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 16. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20217.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 17. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20218.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 18. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20219.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 19. Bölüm",
           "subtitle": ""
         },
-{
+        {
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/nodemcu-80646.appspot.com/o/Rookie%20220.m3u8?alt=media&token=3f7380eb-5f40-490c-9069-ea1abba1a1c2",
           "language": "2. Sezon 20. Bölüm",
           "subtitle": ""
@@ -2400,7 +2615,7 @@
           "language": "2. Sezon 16. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Suits%20216.vtt?alt=media&token=95efe49b-bce9-42e3-af03-cb9cb28804ce"
         },
- {
+        {
           "linkmovie": "https://wkba.vidrock2.store/_v1/12a3c523fe105800ed8c394685aeeb0bc02ea85c15b1bcee0a1e7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a17f0720afd6749543f85c4aeb0d15c6f0e8/h/list;15a38523e50c5b40b5966206d2b8e010903ca9445cbdb8b642456baf.m3u8",
           "language": "3. Sezon 1. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Suits%20301.vtt?alt=media&token=5e2fe6a4-398d-454f-8b93-a9f6cd9c08de"
