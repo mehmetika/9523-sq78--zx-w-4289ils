@@ -1,6 +1,48 @@
 {
   "channel": [
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_FMjpg_UX1000_.jpg",
+      "name": "The Queen's Gambit",
+      "links": [
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/651/1080p.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/651/tr.vtt"
+        },
+ {
+          "linkmovie": "https://storage.diziyou.co/episodes/652/1080p.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/652/tr.vtt"
+        },
+ {
+          "linkmovie": "https://storage.diziyou.co/episodes/653/1080p.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/653/tr.vtt"
+        },
+ {
+          "linkmovie": "https://storage.diziyou.co/episodes/654/1080p.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/654/tr.vtt"
+        },
+ {
+          "linkmovie": "https://storage.diziyou.co/episodes/655/1080p.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/655/tr.vtt"
+        },
+ {
+          "linkmovie": "https://storage.diziyou.co/episodes/656/1080p.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/656/tr.vtt"
+        },
+ {
+          "linkmovie": "https://storage.diziyou.co/episodes/657/1080p.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/657/tr.vtt"
+        }
+        
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg",
       "name": "Sherlock",
       "links": [
