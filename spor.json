@@ -11,6 +11,29 @@
         }
       ]
     },
+    {
+      "assets": "https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp",
+      "name": "Bein Sport 1 (Yayın 2)",
+      "links": [
+        {
+          "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/230645.ts",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
+      "assets": "https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp",
+      "name": "Bein Sport 1 (Twitter)",
+      "links": [
+        {
+          "linkmovie": "h
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BNJl_uZbWDkiDDD8sBMd0_GWBAVWBeoA3s1ojG3VfE-z-FwNivhY95kxwz_YXgEF5ReA0q_hQtSe3leCwX65mw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
 {
       "assets": "https://logowik.com/content/uploads/images/bein-sports-25584.logowik.com.webp",
       "name": "Bein Sport 2",
