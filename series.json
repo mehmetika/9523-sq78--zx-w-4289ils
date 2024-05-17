@@ -1,17 +1,16 @@
 {
   "channel": [
-
     {
       "assets": "https://m.media-amazon.com/images/M/MV5BZTQ0MGFhNmItNmM3Mi00NjFlLThmMDUtOTg1YzM0N2U1MTc1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
       "name": "Konuşanlar",
       "links": [
-        {               
+        {
           "linkmovie": "https://lille.cdn77.host/hls2/02/00002/cb3vvzkv9lvo_n/index-v1-a1.m3u8?t=LyEXna3JLSq7exp9oDNn-gbeRIyT0HdLA8wLWQ7TQjE&s=1715986459&e=43200&f=13579&srv=x2&i=0.0&sp=5000&p1=lille&p2=lille",
           "language": "1. Sezon 1. Bölüm",
           "subtitle": ""
         }
-	       ]
-},
+      ]
+    },
     {
       "assets": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",
       "name": "Rick and Morty",
