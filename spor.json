@@ -1,17 +1,6 @@
 {
   "channel": [
     {
-      "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/granada_real.png?alt=media&token=6f094549-d874-4905-a566-46256c2aa492",
-      "name": "S Sport 1",
-      "links": [
-        {
-          "linkmovie": "http://482445563191766750.ofsd5513.xyz:80/play/jean81/jean09092022/766750.ts",
-          "language": "",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
       "assets": "https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp",
       "name": "Bein Sport 1",
       "links": [
@@ -34,8 +23,8 @@
       ]
     },
     {
-      "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/granada_real.png?alt=media&token=6f094549-d874-4905-a566-46256c2aa492",
-      "name": "Bein 3",
+      "assets": "https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp",
+      "name": "Bein Sport 3",
       "links": [
         {
           "linkmovie": "http://482445563191785080.ofsd5513.xyz:80/play/jean81/jean09092022/785080.ts",
@@ -45,7 +34,7 @@
       ]
     },
     {
-      "assets": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+      "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslfh03r423WrQUamvVDFoqE-Sd3rPgTdhpz2d0hWRKQ&s",
       "name": "Bein Sport 4",
       "links": [
         {
@@ -56,22 +45,44 @@
       ]
     },
     {
-      "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/granada_real.png?alt=media&token=6f094549-d874-4905-a566-46256c2aa492",
-      "name": "Granada-Real Madrid",
+      "assets": "https://www.egblog.news/wp-content/uploads/2024/01/bein-sport-max-1.webp",
+      "name": "Bein Sport 2 Max",
       "links": [
         {
-          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XrwVVgFLb-gGtWWrGWBUSAU8sadasdsadsadjVdx0dKs8xzKmitO1xzBl9nJqcjWo6ldZLI7UiIrNf_hpzJNTYE382asdsadsadsadcVDjMcbg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "http://482445563191322640.ofsd5513.xyz:80/play/jean81/jean09092022/322640.ts",
           "language": "",
           "subtitle": ""
         }
       ]
     },
     {
-      "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/granada_real.png?alt=media&token=6f094549-d874-4905-a566-46256c2aa492",
-      "name": "Granada-Real Madrid",
+      "assets": "https://i.pinimg.com/236x/87/aa/dc/87aadc0d6ce14ce9eb4337a9776bc522.jpg",
+      "name": "Bein Sport Max 1",
       "links": [
         {
-          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/PUg23xo1alVYeRdYKwVnDypmfe-LfEJuquadssadsadsadsadsad7AsfxWGnA6WKwoifUW4rDdnPFMGzC-R1FuzTNuzasdsadsadyiYWDWlsEvRrg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "http://482445563191836929.ofsd5513.xyz:80/play/jean81/jean09092022/836929.ts",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
+      "assets": "https://im.haberturk.com/l/2021/10/07/ver1633623439/3214663/jpg/640x360",
+      "name": "S Sport 1",
+      "links": [
+        {
+          "linkmovie": "http://482445563191766750.ofsd5513.xyz:80/play/jean81/jean09092022/766750.ts",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
+      "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8yOJhkO3LCK5l2C7Dn_37A5V5MmosNpzVhdmO80vXw&s",
+      "name": "S Sport 2",
+      "links": [
+        {
+          "linkmovie": "http://482445563191766751.ofsd5513.xyz:80/play/jean81/jean09092022/766751.ts",
           "language": "",
           "subtitle": ""
         }
