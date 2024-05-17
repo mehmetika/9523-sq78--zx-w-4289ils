@@ -2,19 +2,16 @@
   "channel": [
 
     {
-      "assets": "https://m.media-amazon.com/images/M/MV5BMDRlZGJiZDEtMjEwOS00MzMxLTlhMjgtOWQ1MDFmNjc3MTExXkEyXkFqcGdeQXVyODczMDQ2MzM@._V1_FMjpg_UX1000_.jpg",
-      "name": "Aziz Mahmud Hüdayi: Aşkın Yolculuğu",
+      "assets": "https://m.media-amazon.com/images/M/MV5BZTQ0MGFhNmItNmM3Mi00NjFlLThmMDUtOTg1YzM0N2U1MTc1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
+      "name": "Konuşanlar",
       "links": [
-        {
-          "linkmovie": "https://www.youtube.com/watch?v=fDBfpCHL3bY",
+        {               
+          "linkmovie": "https://lille.cdn77.host/hls2/02/00002/cb3vvzkv9lvo_n/index-v1-a1.m3u8?t=LyEXna3JLSq7exp9oDNn-gbeRIyT0HdLA8wLWQ7TQjE&s=1715986459&e=43200&f=13579&srv=x2&i=0.0&sp=5000&p1=lille&p2=lille",
           "language": "1. Sezon 1. Bölüm",
           "subtitle": ""
         }
-]
+	       ]
 },
-
-
-
     {
       "assets": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",
       "name": "Rick and Morty",
@@ -3906,32 +3903,32 @@
       "name": "The Falcon and the Winter Soldier",
       "links": [
         {
-          "linkmovie": "https://krda.vidrock2.store/_v1/12a3c523fa105800ed8c394685aeeb0bc52efe5c5ab0b6f515447baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a33a5571f1d5749544f85d48ec0915c1f4ec3f552e433d61d574425261c4/h/list;15a38523e50c5b40b5966206d1bfee10903ca9445cbdbcb34e4169ac.m3u8",
+          "linkmovie": "https://brighton.cdn77.host/hls2/02/00004/8wrr12c6me3v_n/index-a1.m3u8?t=hxbQ1tuGaClKoLS-2qG_LcZVgLrNM12tDW_HvKVZoKU&s=1715985127&e=43200&f=22231&srv=x1&i=0.0&sp=5000&fr=8wrr12c6me3v&p1=brighton&p2=brighton",
           "language": "1. Sezon 1. Bölüm",
           "subtitle": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/falcon_winter_soldier_s1_e1_tr.vtt?alt=media&token=27ce7702-c891-493d-bfd6-206a7bc2cdd0"
         },
         {
-          "linkmovie": "https://lzoy.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0b912ef95c07beb8e816427baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a3381022a189348246f1054fef0d16c6f1ee39/h/list;15a38523e50c5b40b5966206d1bfee10903ca9445cbdbcb34e4169ac.m3u8",
+          "linkmovie": "https://bristol.cdn77.host/hls2/02/00004/rpwc46zzxd98_n/index-a1.m3u8?t=djoaw1S0CIXhjqT19bFggio27DtAPNOUupfGY1PdlrA&s=1715985781&e=43200&f=22232&srv=x2&i=0.0&sp=5000&fr=rpwc46zzxd98&p1=bristol&p2=bristol",
           "language": "1. Sezon 2. Bölüm",
           "subtitle": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12539255.vtt"
         },
         {
-          "linkmovie": "https://vzbr.vidrock2.store/_v1/12a3c523fe105800ed8c394685aeeb0b942eab5c5bb0b6f40a457baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5070f6d1749544f85c0db85f4dc3f6ec3911/h/list;15a38523e50c5b40b5966206d1bfee10903ca9445cbdbcb34e4169ac.m3u8",
+          "linkmovie": "https://nottingham.cdn77.host/hls2/02/00004/u2hi3xromqm3_n/index-a1.m3u8?t=HPX3xzJICD18FEQOd9UPDPoPf12yRG2G23lB-INpRWU&s=1715985817&e=43200&f=22233&srv=x1&i=0.0&sp=5000&fr=u2hi3xromqm3&p1=nottingham&p2=nottingham",
           "language": "1. Sezon 3. Bölüm",
           "subtitle": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12538906.vtt"
         },
         {
-          "linkmovie": "https://vzbr.vidrock2.store/_v1/12a3c523fe105800ed8c394685aeeb0b902efd5c55b1b7b108197baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a43b5235a3876fc611a75d4feb085691a6b03b/h/list;15a38523e50c5b40b5966206d1bfee10903ca9445cbdbcb34e4169ac.m3u8",
+          "linkmovie": "https://manchester.cdn77.host/hls2/02/00004/sshr4xgyan3x_n/index-a1.m3u8?t=tmQ9euj0wbJE2OlaEgfU8vModlPdD0kiFd3qLEhpnEY&s=1715985840&e=43200&f=22234&srv=x1&i=0.0&sp=5000&fr=sshr4xgyan3x&p1=manchester&p2=manchester",
           "language": "1. Sezon 4. Bölüm",
           "subtitle": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12538964.vtt"
         },
         {
-          "linkmovie": "https://lzoy.vidrock2.store/_v1/12a3c523fe105800ed8c394685aeeb0bc02ea05c07beb8e816407baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a4385371f6d636c515e30918b40e5691a6b03c167b/h/list;15a38523e50c5b40b5966206d1bfee10903ca9445cbdbcb34e4169ac.m3u8",
+          "linkmovie": "https://paris.cdn77.host/hls2/02/00004/6g1m8c1864n1_n/index-a1.m3u8?t=sRS33TESjKkFGu_glbHPTpdp9zGdU5D0QKjDnLnPmqE&s=1715985861&e=43200&f=22235&srv=x2&i=0.0&sp=5000&fr=6g1m8c1864n1&p1=paris&p2=paris",
           "language": "1. Sezon 5. Bölüm",
           "subtitle": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12538922.vtt"
         },
         {
-          "linkmovie": "https://qwqr.vidrock2.store/_v1/12a3c523fe105800ed8c394685aeeb0bc52eac5c54b0b6ed0b0d7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a43b5735a3876fc111a65d4feb085691a6b038117c116665d374/h/list;15a38523e50c5b40b5966206d1bfee10903ca9445cbdbcb34e4169ac.m3u8",
+          "linkmovie": "https://manchester.cdn77.host/hls2/02/00004/cgom52xy2ci9_n/index-a1.m3u8?t=-FKtuCTh1vN-UXRmQ-qHvNmQ3UbHwMI2pyXPGn41ID8&s=1715985920&e=43200&f=22236&srv=x1&i=0.0&sp=5000&fr=cgom52xy2ci9&p1=manchester&p2=manchester",
           "language": "1. Sezon 6. Bölüm",
           "subtitle": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12538815.vtt"
         }
