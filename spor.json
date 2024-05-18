@@ -11,28 +11,6 @@
         }
       ]
     },
-    {
-      "assets": "https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp",
-      "name": "Bein Sport 1 (Yayın 2)",
-      "links": [
-        {
-          "linkmovie": "http://4kturkiptv.xyz:80/btlcanturk/290822.cbgf/66217",
-          "language": "",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "assets": "https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp",
-      "name": "Bein Sport 1 (Twitter)",
-      "links": [
-        {
-          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BNJl_uZbWDkiDDD8sBMd0_GWBAVWBeoA3s1ojG3VfE-z-FwNivhY95kxwz_YXgEF5ReA0q_hQtSe3leCwX65mw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-          "language": "",
-          "subtitle": ""
-        }
-      ]
-    },
 {
       "assets": "https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_2_Australia.png",
       "name": "Bein Sport 2",
@@ -71,15 +49,18 @@
       "name": "Bein Sport Max 2",
       "links": [
         {
+          "linkmovie": "http://482445563191322640.ofsd5513.xyz:80/play/jean81/jean09092022/322640.ts",
           "language": "",
           "subtitle": ""
         }
       ]
     },
     {
+      "assets": "https://i.pinimg.com/236x/87/aa/dc/87aadc0d6ce14ce9eb4337a9776bc522.jpg",
       "name": "Bein Sport Max 1",
       "links": [
         {
+          "linkmovie": "http://482445563191836929.ofsd5513.xyz:80/play/jean81/jean09092022/836929.ts",
           "language": "",
           "subtitle": ""
         }
