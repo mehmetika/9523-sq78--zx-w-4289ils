@@ -1,6 +1,80 @@
 {
   "channel": [
     {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNjMxN2M4OGYtMzUyMy00NGZkLTllZTItM2NiYjEwMWQ3YzJmXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+      "name": "Icarus",
+      "links": [
+        {
+          "linkmovie": "https://i3.vizorp.buzz/fe/NVDPYNAXlpmZKGQZlZw1gbPYBk8lh2z3NNPbnedfR0d8vlfh8Xvr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNDk2N2UzM2EtYWE0YS00MTljLWJiNGYtODA0MTRmZTE4YTk0XkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_.jpg",
+      "name": "Rose Island",
+      "links": [
+        {
+          "linkmovie": "https://s17.imgcache.cloud/md/GTyhL3WyMTyvnJkyYaA0o3WcLF5xMJkfnKAioTRhMTIfoTHhpz9mMF4lZQVjYyqSDv1RGP4kZQtjpP5RIHSZd0zxnJ1aL2SwnTHhL2kiqJDs0xi17vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rose_island/rose_island_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://s17.imgz.me/m4/GTyhL3WyMTyvnJkyYaA0o3WcLF5xMJkfnKAioTRhMTIfoTHhpz9mMF4lZQVjYyqSDv1RGP4kZQtjpP5RIHSZ/tur-1.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rose_island/rose_island_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://s17.imgz.me/m0/GTyhL3WyMTyvnJkyYaA0o3WcLF5xMJkfnKAioTRhMTIfoTHhpz9mMF4lZQVjYyqSDv1RGP4kZQtjpP5RIHSZ/eng-3.vtt"
+        }
+      ]
+    },
+    {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNWFkYzQxZGYtYTNiMi00ZTlhLTkxNzUtZTk3OThkNzdlMTU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "name": "Awake",
+      "links": [
+        {
+          "linkmovie": "https://s10.imgmania.org/mr/DKqun2HhZwNlZF5KEHVgERjhZGN4ZUNhESIOGNd0zxnJ1aoJShnJRho3Was0xi10vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/awake/awake_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/awake/awake-tur-2-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/awake/awake_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/awake/awake-eng-3.vtt"
+        }
+      ]
+    },
+    {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMTI2NTA1ODEyOF5BMl5BanBnXkFtZTcwNjc3MjY3MQ@@._V1_FMjpg_UX1000_.jpg",
+      "name": "Mirrors",
+      "links": [
+        {
+          "linkmovie": "https://p3.photostack.net/v/q40bvgmmwent/master.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/mirrors/mirrors_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/mirrors/mirrors_tr.srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/mirrors/mirrors_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/mirrors/mirrors_en.srt"
+        }
+      ]
+    },
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BMTdlOGJjMDItOGUyOS00OWFiLTg2NmMtMmVlOGRkZGNmNDA2XkEyXkFqcGdeQXVyMzA0OTQzODE@._V1_FMjpg_UX1000_.jpg",
       "name": "Mavka: Ormanın Şarkısı",
       "links": [

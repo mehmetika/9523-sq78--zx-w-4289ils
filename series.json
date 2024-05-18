@@ -1,6 +1,108 @@
 {
   "channel": [
     {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMTI2NTA1ODEyOF5BMl5BanBnXkFtZTcwNjc3MjY3MQ@@._V1_FMjpg_UX1000_.jpg",
+      "name": "Yakamoz S-245",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/yakamoz/yakamoz_101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/yakamoz/yakamoz_102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/yakamoz/yakamoz_103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/yakamoz/yakamoz_104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/yakamoz/yakamoz_105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/yakamoz/yakamoz_106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/yakamoz/yakamoz_107.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
+      "assets": "https://m.media-amazon.com/images/M/MV5BOWYxOWY4NzItNTkxOC00YzZhLWJhNTEtYTllZjQ3MGY5ZDUxXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Biohackers",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+	{
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_201.m3u8",
+          "language": "2. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_202.m3u8",
+          "language": "2. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_203.m3u8",
+          "language": "2. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_204.m3u8",
+          "language": "2. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/biohackers/biohackers_205.m3u8",
+          "language": "2. Sezon 5. Bölüm",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BZTQ0MGFhNmItNmM3Mi00NjFlLThmMDUtOTg1YzM0N2U1MTc1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
       "name": "Konuşanlar",
       "links": [
