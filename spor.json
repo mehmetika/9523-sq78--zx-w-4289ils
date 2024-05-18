@@ -1,7 +1,7 @@
 {
   "channel": [
     {
-      "assets": "https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp",
+      "assets": "https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_1_Australia.png",
       "name": "Bein Sport 1",
       "links": [
         {
@@ -34,6 +34,7 @@
       ]
     },
 {
+      "assets": "https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_2_Australia.png",
       "name": "Bein Sport 2",
       "links": [
         {
@@ -44,7 +45,7 @@
       ]
     },
     {
-      "assets": "https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp",
+      "assets": "https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_3_Australia.png",
       "name": "Bein Sport 3",
       "links": [
         {
@@ -55,7 +56,7 @@
       ]
     },
     {
-      "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslfh03r423WrQUamvVDFoqE-Sd3rPgTdhpz2d0hWRKQ&s",
+      "assets": "https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_4_US.png",
       "name": "Bein Sport 4",
       "links": [
         {
@@ -65,31 +66,27 @@
         }
       ]
     },
-
     {
-      "assets": "https://i.pinimg.com/236x/87/aa/dc/87aadc0d6ce14ce9eb4337a9776bc522.jpg",
+      "assets": "https://www.egblog.news/wp-content/uploads/2024/01/bein-sport-max-1.webp",
+      "name": "Bein Sport Max 2",
+      "links": [
+        {
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
       "name": "Bein Sport Max 1",
       "links": [
         {
-          "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/6977.ts",
           "language": "",
           "subtitle": ""
         }
       ]
     },
     {
-      "assets": "https://www.egblog.news/wp-content/uploads/2024/01/bein-sport-max-1.webp",
-      "name": "Bein Sport 2 Max",
-      "links": [
-        {
-          "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/6978.ts",
-          "language": "",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "assets": "https://im.haberturk.com/l/2021/10/07/ver1633623439/3214663/jpg/640x360",
+      "assets": "https://ssport.tv//uploads/tv-logo/logo-1.svg",
       "name": "S Sport 1",
       "links": [
         {
@@ -100,7 +97,7 @@
       ]
     },
     {
-      "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8yOJhkO3LCK5l2C7Dn_37A5V5MmosNpzVhdmO80vXw&s",
+      "assets": "https://ssport.tv//uploads/tv-logo/logo-2.svg",
       "name": "S Sport 2",
       "links": [
         {
