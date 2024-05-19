@@ -1,5 +1,236 @@
 {
   "channel": [
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+      "name": "Mr. Robot",
+      "links": [
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10401/1080p.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10401/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10402/1080p.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10402/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10403/1080p.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10403/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10404/1080p.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10404/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10405/1080p.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10405/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10406/1080p.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10406/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10407/1080p.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10407/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10408/1080p.m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10408/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10409/1080p.m3u8",
+          "language": "1. Sezon 9. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10409/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10410/1080p.m3u8",
+          "language": "1. Sezon 10. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10410/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10411/1080p.m3u8",
+          "language": "2. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10411/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10412/1080p.m3u8",
+          "language": "2. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10412/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10413/1080p.m3u8",
+          "language": "2. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10413/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10414/1080p.m3u8",
+          "language": "2. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10414/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10415/1080p.m3u8",
+          "language": "2. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10415/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10416/1080p.m3u8",
+          "language": "2. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10416/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10417/1080p.m3u8",
+          "language": "2. Sezon 7. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10417/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10418/1080p.m3u8",
+          "language": "2. Sezon 8. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10418/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10419/1080p.m3u8",
+          "language": "2. Sezon 9. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10419/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10420/1080p.m3u8",
+          "language": "2. Sezon 10. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10420/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10421/1080p.m3u8",
+          "language": "2. Sezon 11. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10421/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10422/1080p.m3u8",
+          "language": "2. Sezon 12. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10422/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10423/1080p.m3u8",
+          "language": "3. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10423/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10424/1080p.m3u8",
+          "language": "3. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10424/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10425/1080p.m3u8",
+          "language": "3. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10425/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10426/1080p.m3u8",
+          "language": "3. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10426/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10427/1080p.m3u8",
+          "language": "3. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10427/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10428/1080p.m3u8",
+          "language": "3. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10428/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10429/1080p.m3u8",
+          "language": "3. Sezon 7. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10429/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10430/1080p.m3u8",
+          "language": "3. Sezon 8. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10430/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10431/1080p.m3u8",
+          "language": "3. Sezon 9. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10431/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10432/1080p.m3u8",
+          "language": "3. Sezon 10. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10432/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10433/1080p.m3u8",
+          "language": "4. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10433/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10434/1080p.m3u8",
+          "language": "4. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10434/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10435/1080p.m3u8",
+          "language": "4. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10435/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10436/1080p.m3u8",
+          "language": "4. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10436/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10437/1080p.m3u8",
+          "language": "4. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10437/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10438/1080p.m3u8",
+          "language": "4. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10438/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10439/1080p.m3u8",
+          "language": "4. Sezon 7. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10439/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10440/1080p.m3u8",
+          "language": "4. Sezon 8. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10440/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10441/1080p.m3u8",
+          "language": "4. Sezon 9. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10441/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10442/1080p.m3u8",
+          "language": "4. Sezon 10. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10442/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10443/1080p.m3u8",
+          "language": "4. Sezon 11. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10443/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10444/1080p.m3u8",
+          "language": "4. Sezon 12. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10444/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/10445/1080p.m3u8",
+          "language": "4. Sezon 13. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/10445/tr.vtt"
+        }
+      ]
+    },
     {
       "assets": "https://m.media-amazon.com/images/M/MV5BZjQ0YjAyNWQtMjRjMC00NzMxLTlkNjEtYWQzNmQwNGRlMGJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
       "name": "Fallout",
@@ -577,6 +808,59 @@
           "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/106.m3u8",
           "language": "1. Sezon 6. Bölüm",
           "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14376729.vtt"
+        }
+      ]
+    },
+    {
+      "assets": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-yildizlararasi-fullhd-izle.jpg",
+      "name": "Yıldızlararası",
+      "links": [
+        {
+          "linkmovie": "https://i3.stockberger.buzz/fl/NtRvtPMiXEZbFm5c9VjtYZjD9tjks9HCGZ0Nw0QGvYfNfxxlfzpFZm8vh2z3DQ6oiRANFhW-INgemS9Pu9Y306OA-V_GD4mNuq6NWISI0EnMp6n7In5fl1LA8Z_MHE0QsEpMy-XhLTc3ASiHNRtNbPEcLCvr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
+      "assets": "https://hdfilmcehennemi.cx/wp-content/uploads/2023/10/Not-Defteri.jpg",
+      "name": "Not Defteri",
+      "links": [
+        {
+          "linkmovie": "https://v1.photour.org/v/oytkbhy26r7x/master.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_notebook/the_notebook_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_notebook/the_notebook_tr.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_notebook/the_notebook_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_notebook/the_notebook_en.vtt"
+        }
+      ]
+    },
+    {
+      "assets": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fullhd-titanik-titanic-izle.jpg",
+      "name": "Titanik",
+      "links": [
+        {
+          "linkmovie": "https://v5.vanderburg.buzz/mq/ITy0LJ5cnl5HnKEuozywYwR5BGphZGN4ZUNhEUIuoNd0zxqzShMTIlLaIlMl5vqKc6s0xi5vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/titanic/titanic_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/titanic/tur-1-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/titanic/titanic_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/titanic/eng-2.vtt"
         }
       ]
     }
