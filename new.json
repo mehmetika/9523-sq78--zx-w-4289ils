@@ -1,7 +1,7 @@
 {
   "channel": [
          {
-      "assets": "https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg",
+      "assets": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",
       "name": "The Batman",
       "links": [
         {
@@ -3830,6 +3830,16 @@
           "linkmovie": "https://v1.photour.org/v/oytkbhy26r7x/master.m3u8",
           "language": "Türkçe Dublaj",
           "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_notebook/the_notebook_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_notebook/the_notebook_tr.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_notebook/the_notebook_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_notebook/the_notebook_en.vtt"
         }
       ]
     },
@@ -4642,6 +4652,16 @@
           "linkmovie": "https://v5.vanderburg.buzz/mq/ITy0LJ5cnl5HnKEuozywYwR5BGphZGN4ZUNhEUIuoNd0zxqzShMTIlLaIlMl5vqKc6s0xi5vr1.m3u8",
           "language": "Türkçe Dublaj",
           "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/titanic/titanic_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/titanic/tur-1-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/titanic/titanic_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/titanic/eng-2.vtt"
         }
       ]
     },
