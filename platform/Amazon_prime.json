@@ -45,6 +45,47 @@
           "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348761.vtt"
         }
       ]
+    },
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BMDE0Yzc0OTMtNjkwMS00OWFiLWJkNzgtNjUyZDNjNDE0ODUyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg",
+      "name": "A Gentleman in Moscow",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gentleman_in_moscow/gentlemen_in_moscow_101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14361262.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gentleman_in_moscow/gentlemen_in_moscow_102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14371246.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gentleman_in_moscow/gentlemen_in_moscow_103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14371242.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gentleman_in_moscow/gentlemen_in_moscow_104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14354106.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gentleman_in_moscow/gentlemen_in_moscow_105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14363410.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gentleman_in_moscow/gentlemen_in_moscow_106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gentleman_in_moscow/gentlemen_in_moscow_107.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": ""
+        }
+      ]
     }
   ]
 }
