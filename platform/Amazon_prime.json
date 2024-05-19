@@ -88,6 +88,27 @@
       ]
     },
  {
+      "assets": "https://m.media-amazon.com/images/M/MV5BYWRkZjJiODEtM2IwZi00ZjM1LWEyOTUtOThjMDk3YThjZDUzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+      "name": "The idea of you",
+      "links": [
+        {
+          "linkmovie": "https://s23.picogallery.org/mx/ITuyYxyxMJRhG2LhJJ91YwVjZwDhI0IPYHEZYwRjBQOjYxEIDDd0zxpTywo2quoTkypaxho3Was0xi23vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_idea_of_you/the_idea_of_you_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_idea_of_you/the-idea-of-you-tur-2-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_idea_of_you/the_idea_of_you_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_idea_of_you/the-idea-of-you-en-2-default.vtt"
+        }
+      ]
+    },
+ {
       "assets": "https://m.media-amazon.com/images/M/MV5BZDlkZmRlYTctNGJmNy00MjVkLThjZDQtMWY5Zjg2NjlhZDZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
       "name": "American Fiction",
       "links": [
