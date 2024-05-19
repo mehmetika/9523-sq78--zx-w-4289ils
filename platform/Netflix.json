@@ -1,6 +1,52 @@
 {
   "channel": [
         {
+      "assets": "https://m.media-amazon.com/images/M/MV5BYzJmMjE3YTYtNDMxMy00ZmE0LTg5MzktYTNhOTcyNmY4MzFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "name": "Dead Boy Detectives",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dead_boy_detectives/101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14361198.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dead_boy_detectives/102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14368799.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dead_boy_detectives/103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14368965.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dead_boy_detectives/104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14368977.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dead_boy_detectives/105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14361188.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dead_boy_detectives/106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14361192.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dead_boy_detectives/107.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14371050.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dead_boy_detectives/108.m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14371051.vtt"
+        }
+      ]
+    },
+        {
       "assets": "https://m.media-amazon.com/images/M/MV5BYmQ2ODgyZjMtMmQyMy00ZWRhLTllOGUtZDI3MDkzNjFhZWQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
       "name": "Rebel Moon Part Two",
       "links": [
