@@ -5,7 +5,7 @@
       "name": "galatasaray-fenerbahçe",
       "links": [
         {
-          "linkmovie": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/0zfZ8xTRHSTdJdwJ1B739tDMoLulUKdq4GrUGVFamNiyhfRUMyY0l30asdasdsadsadsadcEbPFq690PHcakWW6eCADHoXdd1asdasdsad_q6w/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/-o_FUHb7JVzHZC58NMt_YuOJ2zW9RrV4jNjpnxL1i7nCvSh-joY1E6fuL8tag4u9AdrOXyY3sYGDSDjUiDIFZA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
           "language": "",
           "subtitle": ""
         }
@@ -16,7 +16,7 @@
       "name": "galatasaray-fenerbahçe",
       "links": [
         {
-          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XrwVVgFLb-gGtWWrGWBUSAU8jVdx0dKs8xzKmitO1xzBl9nJqcjWo6asdsadsadsadsadsadldZLI7UiIrNf_hpzJNTYE382cVDjMdsadsadsadcbg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ISgBcFzL9gZHDJ7aOzU1B65qlmq64M1UbbTyNxiZUUDolc-ynLPsaHgHWxhWH4oahOxJrsnHfgVYWdMUcyeUxA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
           "language": "",
           "subtitle": ""
         }
@@ -27,7 +27,18 @@
       "name": "galatasaray-fenerbahçe",
       "links": [
         {
-          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XrwVVgFLb-gGtWWrGWBUSAU8jVdx0dKs8xzKmitO1xzBl9nJqcjWo6ldZLI7UiIrNf_hpzJNTYE382cVDjMcbasdsadsadsadsadsadsafsafg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/efFslJpU83P7P1oFJdM9B-iZQn_QfxJsCUal0kvnMLVsKXZCSgN-No8rR2H0QmNbLR4xOUhjah2XIkD1YVOUjg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
+      "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcsjSEXTygJHKs39uLekCG_0iYlyumEzmXinlK1vnUIqZShS_RNKu0LgXv&s=10",
+      "name": "galatasaray-fenerbahçe",
+      "links": [
+        {
+          "linkmovie": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Z4ynZq24-2_0pyLqm79oyJyF6e_CwvnzqIWJ6N1mnel53_meLqarS9Je0-d5_HzSud06vPDUri9-Hiw6czUNYA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live",
           "language": "",
           "subtitle": ""
         }
