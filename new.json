@@ -1,6 +1,17 @@
 {
   "channel": [
          {
+      "assets": "https://tr.web.img4.acsta.net/pictures/23/07/07/19/25/0174755.jpg",
+      "name": "Kuru Otlar Üstüne",
+      "links": [
+        {
+          "linkmovie": "https://s25.photogrids.site/ms/F3IlqF5CqTkupv5Ip3E1ozHhZwNlZl5KEHVgERjhZGN4ZUNd0zxpTuiqT9apzyxpl5mnKEys0xi25vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+         {
       "assets": "https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg",
       "name": "Fantastic Beasts The Secrets of Dumbledore",
       "links": [
@@ -1912,27 +1923,6 @@
           "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/fantastic_canavarlar_2_en.m3u8?alt=media&token=55423bc3-dc80-407a-ac59-7e9cd86f00ca",
           "language": "İngilizce Altyazı",
           "subtitle": "https://s3.bunnycdn.ru/sub/cache3/subtitle/11966765.vtt"
-        }
-      ]
-    },
-    {
-      "assets": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/fantastik-canavarlar-dumbledore-un-sirlari-96646.jpg",
-      "name": "Fantastik Canavarlar 3",
-      "links": [
-        {
-          "linkmovie": "https://s7.imgcache.cloud/m1/EzShqTSmqTywYxWyLKA0pl5HnTHhH2IwpzI0pl5iMv5RqJ1voTIxo3WyYwVjZwVhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1aL2SwnTHhL2kiqJDs0xi7vr1.m3u8",
-          "language": "Türkçe Dublaj",
-          "subtitle": ""
-        },
-        {
-          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/fantastic_canavarlar_3_en.m3u8?alt=media&token=18531561-a523-4ee9-ba01-d2a713863c0c",
-          "language": "Türkçe Altyazı",
-          "subtitle": "https://s3.bunnycdn.ru/sub/cache3/subtitle/11956462.vtt"
-        },
-        {
-          "linkmovie": "https://firebasestorage.googleapis.com/v0/b/inodya-197b4.appspot.com/o/fantastic_canavarlar_3_en.m3u8?alt=media&token=18531561-a523-4ee9-ba01-d2a713863c0c",
-          "language": "İngilizce Altyazı",
-          "subtitle": "https://s3.bunnycdn.ru/sub/cache3/subtitle/11956394.vtt"
         }
       ]
     },
@@ -4416,13 +4406,23 @@
       ]
     },
     {
-      "assets": "https://img.fullhdfilmizlesene.pw/poster/izle/the-batman-36334.webp",
+      "assets": "https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg",
       "name": "The Batman",
       "links": [
         {
-          "linkmovie": "https://s15.imagehub.pics/md/ITuyYxWuqT1uov4lZQVlYxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2IbqJVhpTywpjs0xi15vr1.m3u8",
+          "linkmovie": "https://s15.imagehub.pics/m0/ITuyYxWuqT1uov4lZQVlYxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2IbqJVhpTywpjs0xi15vr1.m3u8",
           "language": "Türkçe Dublaj",
           "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13145622.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13143862.vtt"
         }
       ]
     },
