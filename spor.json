@@ -1,7 +1,7 @@
 {
   "channel": [
     {
-      "assets": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=galatasaray&team2=fenerbahce",
+      "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcsjSEXTygJHKs39uLekCG_0iYlyumEzmXinlK1vnUIqZShS_RNKu0LgXv&s=10",
       "name": "galatasaray-fenerbahçe",
       "links": [
         {
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "assets": "https://www.rudaw.net/s3/rudaw.net/ContentFiles/786381Image1.jpg?version=6397386",
+      "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcsjSEXTygJHKs39uLekCG_0iYlyumEzmXinlK1vnUIqZShS_RNKu0LgXv&s=10",
       "name": "galatasaray-fenerbahçe",
       "links": [
         {
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "assets": "https://minio.yalispor.com.tr/yalispor/blog/efsane-derbi-24-aralik-fenerbahce-galatasaray-kapismasi-1_6585882fe5369.jpg",
+      "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcsjSEXTygJHKs39uLekCG_0iYlyumEzmXinlK1vnUIqZShS_RNKu0LgXv&s=10",
       "name": "galatasaray-fenerbahçe",
       "links": [
         {
