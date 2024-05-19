@@ -1,6 +1,27 @@
 {
   "channel": [
          {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg",
+      "name": "The Batman",
+      "links": [
+        {
+          "linkmovie": "https://s15.imagehub.pics/m0/ITuyYxWuqT1uov4lZQVlYxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2IbqJVhpTywpjs0xi15vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13145622.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13143862.vtt"
+        }
+      ]
+    },
+         {
       "assets": "https://tr.web.img4.acsta.net/pictures/23/07/07/19/25/0174755.jpg",
       "name": "Kuru Otlar Üstüne",
       "links": [
@@ -4402,27 +4423,6 @@
           "linkmovie": "https://d5.pendharkar.buzz/fc/NVDPYDAwl1DPlCUAjVmZEiPmWgFmi4fGZAK1Vy8Ph2z3NNsNC_8XhbHmV5FXAQ8UhZmBkFlAuRXixf0d2dXYWAYBcZYVy8FAw0Xvr1.m3u8",
           "language": "Türkçe Dublaj",
           "subtitle": ""
-        }
-      ]
-    },
-    {
-      "assets": "https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg",
-      "name": "The Batman",
-      "links": [
-        {
-          "linkmovie": "https://s15.imagehub.pics/m0/ITuyYxWuqT1uov4lZQVlYxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2IbqJVhpTywpjs0xi15vr1.m3u8",
-          "language": "Türkçe Dublaj",
-          "subtitle": ""
-        },
-        {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
-          "language": "Türkçe Altyazı",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13145622.vtt"
-        },
-        {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
-          "language": "İngilizce Altyazı",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13143862.vtt"
         }
       ]
     },
