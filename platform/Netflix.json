@@ -1,6 +1,48 @@
 {
   "channel": [
         {
+      "assets": "https://m.media-amazon.com/images/M/MV5BYmQ2ODgyZjMtMmQyMy00ZWRhLTllOGUtZDI3MDkzNjFhZWQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "name": "Rebel Moon Part Two",
+      "links": [
+        {
+          "linkmovie": "https://s20.pixypost.art/mm/HzIvMJjhGJ9iov5DLKW0YyE3ol5HnTHhH2AupzqcqzIlYwVjZwDhI0IPYHEZYwRjBQOjYxEIDDd0zxpTy4rKOip3DhLKW0s0xi20vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352590.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352575.vtt"
+        }
+      ]
+    },
+        {
+      "assets": "https://m.media-amazon.com/images/M/MV5BYzlhNzBmYjUtNjRmZC00MDg3LWE4NDMtZDNjODUwNTljMzhlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+      "name": "Rebel Moon Part One",
+      "links": [
+        {
+          "linkmovie": "https://s26.photogrids.site/mn/HzIvMJjhGJ9iov5DLKW0Yx9hMF5OYxAbnJkxYz9zYxMcpzHhZwNlZl5KEHVgERjhZGN4ZUNhESIOGNd0zxpTuiqT9apzyxpl5mnKEys0xi26vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p1/rmp1.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13020370.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p1/rmp1.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13019506.vtt"
+        }
+      ]
+    },
+        {
       "assets": "https://m.media-amazon.com/images/M/MV5BZTJmZTI3YjEtODBlNy00ODY4LWFkODktNmZjNDI4YjllYzVjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
       "name": "Ripley",
       "links": [
