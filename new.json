@@ -1,5 +1,26 @@
 {
   "channel": [
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMTcwMjIyMTc2Nl5BMl5BanBnXkFtZTcwOTQyMzc5Mw@@._V1_FMjpg_UX1000_.jpg",
+      "name": "All Good Things",
+      "links": [
+        {
+          "linkmovie": "https://v3.litvinemko.buzz/mk/E3I6MJjhE3IhoTIlYxSfoP5Uo29xYyEbnJ5apl4lZQRjYwRjBQOjYxE1LJjd0zxoTy0qzyhMJ1eol5vqKc6s0xi3vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/all_good_things/all_good_things.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/all_good_things/tur-1-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/all_good_things/all_good_things.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/all_good_things/eng-2.vtt"
+        }
+      ]
+    },
          {
       "assets": "https://m.media-amazon.com/images/M/MV5BYmQ2ODgyZjMtMmQyMy00ZWRhLTllOGUtZDI3MDkzNjFhZWQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
       "name": "Rebel Moon Part Two",

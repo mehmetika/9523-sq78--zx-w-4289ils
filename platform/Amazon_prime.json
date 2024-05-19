@@ -523,6 +523,62 @@
           "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13239690.vtt"
         }
       ]
+    },
+    {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMTcwMjIyMTc2Nl5BMl5BanBnXkFtZTcwOTQyMzc5Mw@@._V1_FMjpg_UX1000_.jpg",
+      "name": "All Good Things",
+      "links": [
+        {
+          "linkmovie": "https://v3.litvinemko.buzz/mk/E3I6MJjhE3IhoTIlYxSfoP5Uo29xYyEbnJ5apl4lZQRjYwRjBQOjYxE1LJjd0zxoTy0qzyhMJ1eol5vqKc6s0xi3vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/all_good_things/all_good_things.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/all_good_things/tur-1-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/all_good_things/all_good_things.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/all_good_things/eng-2.vtt"
+        }
+      ]
+    },{
+      "assets": "https://m.media-amazon.com/images/M/MV5BY2JlMTAzN2QtOTBiMy00YjM5LWFkNzgtYTNkYzdkZTkyYjUxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "name": "Parish",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14343527.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14347516.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/103.srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14364921.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14367575.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14376729.vtt"
+        }
+      ]
     }
   ]
 }
