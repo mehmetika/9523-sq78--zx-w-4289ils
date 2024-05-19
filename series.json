@@ -1,5 +1,138 @@
 {
   "channel": [
+   {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZTJmZTI3YjEtODBlNy00ODY4LWFkODktNmZjNDI4YjllYzVjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "name": "Ripley",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/ripley_1%20(1).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/ripley_1%20(2).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/ripley_1%20(3).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/ripley_1%20(4).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/ripley_1%20(5).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/ripley_1%20(6).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/107.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/ripley_1%20(7).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/108.m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/ripley/ripley_1%20(8).srt"
+        }
+      ]
+    },
+        {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMjNiMDI5YjItNmU0Yy00NmYxLThjYmUtZDc5ODY2ZDI2NzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "name": "3 Cisim Problemi",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/3_cisim_problemi/101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352140.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/3_cisim_problemi/102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14338200.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/3_cisim_problemi/103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14338166.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/3_cisim_problemi/104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14338150.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/3_cisim_problemi/105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14338209.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/3_cisim_problemi/106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14338158.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/3_cisim_problemi/107.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14338182.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/3_cisim_problemi/108.m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14338176.vtt"
+        }
+      ]
+    },
+        {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZmQ0NDE5NjYtMGU4OS00NGMwLWJmOGYtZjVmYTFhMzA3ZGQ2XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg",
+      "name": "Baby Reindeer",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/baby_reindeer/101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352140.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/baby_reindeer/102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352137.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/baby_reindeer/103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352129.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/baby_reindeer/104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352131.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/baby_reindeer/105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352139.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/baby_reindeer/106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352132.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/baby_reindeer/107.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14352128.vtt"
+        }
+      ]
+    },
 {
       "assets": "https://m.media-amazon.com/images/M/MV5BOWRiZjYwZjUtYmIwMy00ZDUzLTk2NjktZmJkZjRkNjU0MDE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
       "name": "Reacher",
