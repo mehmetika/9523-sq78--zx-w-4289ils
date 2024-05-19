@@ -1,48 +1,38 @@
 {
   "channel": [
-        {
-      "assets": "https://m.media-amazon.com/images/M/MV5BOGJjODQxYWUtYjlkOC00NzJiLTgyZjUtY2Q3Y2FhZGVlODEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
-      "name": "The Gentlemen",
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BY2JlMTAzN2QtOTBiMy00YjM5LWFkNzgtYTNkYzdkZTkyYjUxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "name": "Parish",
       "links": [
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_gentlemen/101.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/101.m3u8",
           "language": "1. Sezon 1. Bölüm",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14329897.vtt"
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14343527.vtt"
         },
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_gentlemen/102.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/102.m3u8",
           "language": "1. Sezon 2. Bölüm",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14327724.vtt"
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14347516.vtt"
         },
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_gentlemen/103.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/103.m3u8",
           "language": "1. Sezon 3. Bölüm",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14327665.vtt"
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/103.srt"
         },
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_gentlemen/104.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/104.m3u8",
           "language": "1. Sezon 4. Bölüm",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14327596.vtt"
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14364921.vtt"
         },
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_gentlemen/105.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/105.m3u8",
           "language": "1. Sezon 5. Bölüm",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14329891.vtt"
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14367575.vtt"
         },
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_gentlemen/106.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/parish/106.m3u8",
           "language": "1. Sezon 6. Bölüm",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14330348.vtt"
-        },
-        {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_gentlemen/107.m3u8",
-          "language": "1. Sezon 7. Bölüm",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14327629.vtt"
-        },
-        {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_gentlemen/108.m3u8",
-          "language": "1. Sezon 8. Bölüm",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14327626.vtt"
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14376729.vtt"
         }
       ]
     },
