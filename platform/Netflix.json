@@ -1,6 +1,27 @@
 {
   "channel": [
         {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg",
+      "name": "Fantastic Beasts The Secrets of Dumbledore",
+      "links": [
+        {
+          "linkmovie": "https://s7.imgcache.cloud/md/EzShqTSmqTywYxWyLKA0pl5HnTHhH2IwpzI0pl5iMv5RqJ1voTIxo3WyYwVjZwVhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1aL2SwnTHhL2kiqJDs0xi7vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13137775.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13137150.vtt"
+        }
+      ]
+    },
+        {
       "assets": "https://m.media-amazon.com/images/M/MV5BOGJjODQxYWUtYjlkOC00NzJiLTgyZjUtY2Q3Y2FhZGVlODEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
       "name": "The Gentlemen",
       "links": [
