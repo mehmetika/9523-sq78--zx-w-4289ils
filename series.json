@@ -1,6 +1,52 @@
 {
   "channel": [
     {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZjQ0YjAyNWQtMjRjMC00NzMxLTlkNjEtYWQzNmQwNGRlMGJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+      "name": "Fallout",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/fallout/fallout_101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348616.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/fallout/fallout_102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348611.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/fallout/fallout_103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348612.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/fallout/fallout_104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348625.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/fallout/fallout_105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348623.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/fallout/fallout_106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348608.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/fallout/fallout_107.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348767.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/fallout/fallout_108.m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/14348761.vtt"
+        }
+      ]
+    },
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BN2ZmYzQ5ZjgtZTMyOC00YTNkLWE0NzctOWY1MmY4YzA2OTA1XkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1_.jpg",
       "name": "Yakamoz S-245",
       "links": [
