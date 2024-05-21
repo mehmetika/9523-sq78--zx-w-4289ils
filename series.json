@@ -1,5 +1,93 @@
 {
   "channel": [
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BNDVkNmUxMzAtMWIyZC00MWM4LThiZmQtZWQ3ZDdiN2EyZGRjXkEyXkFqcGdeQXVyMTU2MDUyODcx._V1_FMjpg_UX1000_.jpg",
+      "name": "Taxi Driver",
+      "suggestion": "Taxi Driver,Mobeomtaeksi",
+      "id": "119769",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/101.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(1).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/102.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(2).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/103.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(3).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/104.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(4).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/105.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(5).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/106.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(6).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/107.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(7).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/108.m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(8).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/109.m3u8",
+          "language": "1. Sezon 9. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(9).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/110.m3u8",
+          "language": "1. Sezon 10. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(10).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/111.m3u8",
+          "language": "1. Sezon 11. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(11).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/112.m3u8",
+          "language": "1. Sezon 12. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(12).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/113.m3u8",
+          "language": "1. Sezon 13. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(13).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/114.m3u8",
+          "language": "1. Sezon 14. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(14).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/115.m3u8",
+          "language": "1. Sezon 15. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(15).srt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/116.m3u8",
+          "language": "1. Sezon 16. Bölüm",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/taxi_driver/1%20(16).srt"
+        }
+      ]
+    },
  {
       "assets": "https://m.media-amazon.com/images/M/MV5BOGJjODQxYWUtYjlkOC00NzJiLTgyZjUtY2Q3Y2FhZGVlODEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
       "name": "The Gentlemen",
