@@ -3,6 +3,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/trS1BptIbThrleOUAQ5Lz9ghblH2MzxeXdCd71HZrW4AHR6re-kmJ5ZMxXlTrIxpPwHfYEVQ=s900-c-k-c0x00ffffff-no-rj",
           "name": "TRT 1",
+          "suggestion": "Trt 1",
           "links": [
             {
               "linkmovie": "https://d1u68oyra9spme.cloudfront.net/master.m3u8",
@@ -14,6 +15,7 @@
         {
           "assets": "https://pbs.twimg.com/profile_images/1224014668009824258/h7ZuDhVH_400x400.jpg",
           "name": "ATV",
+          "suggestion": "ATV",
           "links": [
             {
               "linkmovie": "https://hw1.jemtv.com/app/ATVHD/playlist.m3u8",
@@ -25,6 +27,7 @@
         {
           "assets": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
           "name": "SHOW TV",
+          "suggestion": "SHOW TV",
           "links": [
             {
               "linkmovie": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=5v79ys1nadx5&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3",
@@ -36,6 +39,7 @@
         {
           "assets": "https://play-lh.googleusercontent.com/NjZItXugTwNJ0qOGiSbZZB6PMhA-L-3VgWUKMKQKbWT1UJtnIuJYcRNatiqBKqa1vzg",
           "name": "STAR TV",
+          "suggestion": "STAR",
           "links": [
             {
               "linkmovie": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=5v7aca6phtjt&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
@@ -47,6 +51,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ytc/APkrFKZSdU05edTl7DD540cFoEo70p5aaxdbgHxCfdY9FQ=s900-c-k-c0x00ffffff-no-rj",
           "name": "KANAL D",
+          "suggestion": "KANAL D",
           "links": [
             {
               "linkmovie": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=5v7akvfni8il&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3",
@@ -58,6 +63,7 @@
         {
           "assets": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2214662/2214662-1566980884435-c02ec94f28a72.jpg",
           "name": "FOX TV",
+          "suggestion": "FOX TV",
           "links": [
             {
               "linkmovie": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
@@ -69,6 +75,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ytc/APkrFKbR19lmjjmpNnShT47wHvUI3KKwQ2XS8vAijj3XQg=s900-c-k-c0x00ffffff-no-rj",
           "name": "TV8",
+          "suggestion": "TV8",
           "links": [
             {
               "linkmovie": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=5v7b6bth27ef&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
@@ -80,6 +87,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/-vaIq06Du-qfHHBi-NyA37lxaTCOYv3CBl093Hm42IetGFzWtDxZxs3MScfHCBczf26Ldlj2=s900-c-k-c0x00ffffff-no-rj",
           "name": "TV8,5",
+          "suggestion": "TV8,5",
           "links": [
             {
               "linkmovie": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=5v7bdrj77qlp&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3",
@@ -91,6 +99,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ytc/APkrFKZ0kpxYaR16CzfZVZlPwZMu7BICosJGUc2Kk-ycGw=s900-c-k-c0x00ffffff-no-rj",
           "name": "KANAL 7",
+          "suggestion": "KANAL 7",
           "links": [
             {
               "linkmovie": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=5v7e46gkdkbk&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
@@ -102,6 +111,7 @@
         {
           "assets": "https://www.logotypes101.com/logos/83/30CA9DE926A9D087DC232790595E6869/BeyazTVLogo.png",
           "name": "BEYAZ TV",
+          "suggestion": "BEYAZ TV",
           "links": [
             {
               "linkmovie": "https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8",
@@ -113,6 +123,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/lGyQpPStSTwoW0Ey_De2kaBWCTdpfZk3MtG-lkWTiX3J4sVY_DYdTVah0IcCi1xgX75jBLLp4GE=s900-c-k-c0x00ffffff-no-rj",
           "name": "TRT BELGESEL",
+          "suggestion": "TRT BELGESEL",
           "links": [
             {
               "linkmovie": "https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8",
@@ -124,6 +135,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/MHkiocHQY7zntu77ePW2S9GPHr_-iHkEsZ4xAQDXpQYUk8vBTJAwQk8Ndj65FPu_uRYqr413vA=s900-c-k-c0x00ffffff-no-rj",
           "name": "TLC",
+          "suggestion": "TLC",
           "links": [
             {
               "linkmovie": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=MmZiUU8xRDJOdkJVc2ltT2VwNVpGczhPWG1VdGNhK1RxRWc4cFBKN3BNYz0=&sid=5v7bk6h2jubs&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3",
@@ -135,6 +147,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/QMgD-AL-noOFuYObY4khETLrHZiU1V6mBMARiZa6EYL1d0D7vo2CViqvWX_hn90nb0E8cx3kjQ=s900-c-k-c0x00ffffff-no-rj",
           "name": "DMAX",
+          "suggestion": "DMAX",
           "links": [
             {
               "linkmovie": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=eitYV2ptY2JnTVVneXYzOW9VMG1NbEtxR08xTlVZclZUcitBMlRZdVBDaz0=&sid=5v7dximu2qac&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3",
@@ -146,6 +159,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ytc/APkrFKZSCH_oekLvzSlw8MIRYYtA_Qr1znJpticiNHVwdA=s900-c-k-c0x00ffffff-no-rj",
           "name": "360 TV",
+          "suggestion": "360 TV",
           "links": [
             {
               "linkmovie": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
@@ -157,6 +171,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ytEqV31Cwf9lZYWEGblWvu6c2KyGnWtwXi9o8vtGF0uRjp-D4qB3I4LNjkmQxUlRNiS1o-gaaQ=s900-c-k-c0x00ffffff-no-rj",
           "name": "TEVE2",
+          "suggestion": "TEVE2",
           "links": [
             {
               "linkmovie": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=5v7ccy7kqrro&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3",
@@ -168,6 +183,7 @@
         {
           "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/trtcocuk.jpg?alt=media&token=3db87993-7d09-4e80-8e61-576a1103899b",
           "name": "TRT ÇOCUK",
+          "suggestion": "TRT ÇOCUK",
           "links": [
             {
               "linkmovie": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
@@ -179,6 +195,7 @@
         {
           "assets": "https://pbs.twimg.com/profile_images/1656012818812919810/p4SRdEmA_400x400.jpg",
           "name": "TRT DIYANET ÇOCUK",
+          "suggestion": "TRT DIYANET ÇOCUK",
           "links": [
             {
               "linkmovie": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8",
@@ -190,6 +207,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ytc/APkrFKatplBTuB2aB8yB9zTyLiic1tZLu2SGIRuIBxAKnQ=s900-c-k-c0x00ffffff-no-rj",
           "name": "CARTOON NETWORK",
+          "suggestion": "CARTOON NETWORK",
           "links": [
             {
               "linkmovie": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
@@ -201,6 +219,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/364XeLUTmma4xr_4ish6VUzyLt9tGga6i1mZBlPMCqpsMxU1qTDMH9ZLYwMkumfFaf0d3bFZ=s900-c-k-c0x00ffffff-no-rj",
           "name": "MINIKA ÇOCUK",
+          "suggestion": "MINIKA ÇOCUK",
           "links": [
             {
               "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/211.ts",
@@ -212,6 +231,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/YGIJaf_A2bMg46_TthzmnXsNdL7nTBKrcoxLBdJ8mHgfZWt7dOGbwoWYhQz5EJirFiRnqWly=s900-c-k-c0x00ffffff-no-rj",
           "name": "MINIKA GO",
+          "suggestion": "MINIKA GO",
           "links": [
             {
               "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/44.ts",
@@ -223,6 +243,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/fY0cH1PvsAwXmFhvUr5LUulJE9zqoN55vT-CLD-EKpc505cQLvMbR281ugOTQpvUO7OTaGJm=s900-c-k-c0x00ffffff-no-rj",
           "name": "TRT HABER",
+          "suggestion": "TRT HABER",
           "links": [
             {
               "linkmovie": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
@@ -234,6 +255,7 @@
         {
           "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/Tgrt%20haber.png?alt=media&token=54b70b4e-782f-4afb-87cd-465694862b96",
           "name": "TGRT HABER",
+          "suggestion": "TGRT HABER",
           "links": [
             {
               "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/7552.ts",
@@ -245,6 +267,7 @@
         {
           "assets": "https://s.haberglobal.com.tr/assets/web/images/default_square.png",
           "name": "HABER GLOBAL",
+          "suggestion": "HABER GLOBAL",
           "links": [
             {
               "linkmovie": "https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8",
@@ -256,6 +279,7 @@
         {
           "assets": "https://pbs.twimg.com/profile_images/1113364259264765952/0b75JzRr_400x400.png",
           "name": "CNN TÜRK",
+          "suggestion": "CNN TÜRK",
           "links": [
             {
               "linkmovie": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
@@ -267,6 +291,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/4CNJm0pUovHYqJWisZeJc98Gx9_lUcThNNM9ejwWpm_XE6Kq1XQWemmp8Y-ww96jBJeBlm-_qw=s900-c-k-c0x00ffffff-no-rj",
           "name": "TV100",
+          "suggestion": "TV100",
           "links": [
             {
               "linkmovie": "https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web",
@@ -278,6 +303,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ukCrRkXonAVl29DJoIiDfasQ9Kvic5jV-ZLR5Osmnnqs5KyQEjvOyO-3MOb2aFR2hHgInrV_LA=s900-c-k-c0x00ffffff-no-rj",
           "name": "HABERTURK",
+          "suggestion": "HABERTURK",
           "links": [
             {
               "linkmovie": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=5v7d1ij0tktv&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
@@ -289,6 +315,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/V0uiN9FmtfclrwNm8Lbs8eKJVUU5FVTozLtlWEc_2qE7Tsp3dwhBeG0ws_zPOCzEEPuhdikR=s900-c-k-c0x00ffffff-no-rj",
           "name": "AKIT TV",
+          "suggestion": "AKIT TV",
           "links": [
             {
               "linkmovie": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
@@ -300,6 +327,7 @@
         {
           "assets": "https://pbs.twimg.com/profile_images/1636344114617745410/5v2k93k4_400x400.png",
           "name": "NTV",
+          "suggestion": "NTV",
           "links": [
             {
               "linkmovie": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=5v7daxqhq1yt&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3",
@@ -311,6 +339,7 @@
         {
           "assets": "https://play-lh.googleusercontent.com/yMKBZ1FW-BN_LHVS-iP58OsKtCbX-cLx9jrcGaqEc2FpFbrfUKjXuctL0Rnf0w2JM53t",
           "name": "HALK TV",
+          "suggestion": "HALK TV",
           "links": [
             {
               "linkmovie": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609",
@@ -322,6 +351,7 @@
         {
           "assets": "https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk",
           "name": "BLOOMBERG HT",
+          "suggestion": "BLOOMBERG HT",
           "links": [
             {
               "linkmovie": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&sid=5v7dh7v200n5&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3",
@@ -333,6 +363,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/AwsdiCh9vPY13Ar44-U-5ocTcBqYlCPxrixNq8j3UgyrOc-SzI6GDAlMWL5PzmNXMQO77EQiV-I=s900-c-k-c0x00ffffff-no-rj",
           "name": "KANAL 24",
+          "suggestion": "KANAL 24",
           "links": [
             {
               "linkmovie": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
@@ -344,6 +375,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/kA9KtHcQ0As2g-IzRq1gZfOaM9hRKkbrV5lfOa-UAOlRQ1dEASvp82tYlOkGwsgzyADXvt0dcQ=s900-c-k-c0x00ffffff-no-rj",
           "name": "TRT SPOR HD",
+          "suggestion": "TRT SPOR HD",
           "links": [
             {
               "linkmovie": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8",
@@ -355,6 +387,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ytc/APkrFKYBUEUMVNYhJXQrGrE2W7lrGP_ouwAP9O74os1z=s900-c-k-c0x00ffffff-no-rj",
           "name": "SPORTS TV HD",
+          "suggestion": "SPORTS TV HD",
           "links": [
             {
               "linkmovie": "http://482445563191789958.ofsd5513.xyz:80/play/jean81/jean09092022/789958.ts",
@@ -366,6 +399,7 @@
         {
           "assets": "https://play-lh.googleusercontent.com/ZnZ76kY7bAlFHX7cRpWwCP49e05EcL2vNAXtLuPKfPaqNpwJoeBOVFtc9T_UA6jaCKg",
           "name": "A SPOR",
+          "suggestion": "A SPOR",
           "links": [
             {
               "linkmovie": "https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8",
@@ -377,6 +411,7 @@
         {
           "assets": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_jyCUpjCzFspbQHh8yQ2VdimfWw88rCZ-g&usqp=CAU",
           "name": "BEIN SPORTS HABER",
+          "suggestion": "BEIN SPORTS HABER",
           "links": [
             {
               "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/6508.ts",
@@ -388,6 +423,7 @@
         {
           "assets": "https://yt3.googleusercontent.com/ytc/APkrFKYhmAfC-AU0aN1Gkar9pTFcmS3QkFg64X74WuYf2Q=s900-c-k-c0x00ffffff-no-rj",
           "name": "AL QURANN",
+          "suggestion": "AL QURANN",
           "links": [
             {
               "linkmovie": "https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8",
@@ -399,6 +435,7 @@
         {
           "assets": "https://firebasestorage.googleapis.com/v0/b/asda-308e7.appspot.com/o/alsunnah.jpg?alt=media&token=c3738f67-beb6-4c76-944e-c40a303272c2",
           "name": "AL SUNNAH",
+          "suggestion": "AL SUNNAH",
           "links": [
             {
               "linkmovie": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
