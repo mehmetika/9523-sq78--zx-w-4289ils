@@ -1,6 +1,19 @@
 {
   "channel": [
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMDRlZGJiZDEtMjEwOS00MzMxLTlhMjgtOWQ1MDFmNjc3MTExXkEyXkFqcGdeQXVyODczMDQ2MzM@._V1_FMjpg_UX1000_.jpg",
+      "name": "Aziz Mahmud Hüdayi: Aşkın Yolculuğu",
+      "suggestion": "Aziz Mahmud Hüdayi: Aşkın Yolculuğu",
+      "id": "248842",
+      "links": [
+        {
+          "linkmovie": "https://www.youtube.com/watch?v=fDBfpCHL3bY",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        }
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BNDVkNmUxMzAtMWIyZC00MWM4LThiZmQtZWQ3ZDdiN2EyZGRjXkEyXkFqcGdeQXVyMTU2MDUyODcx._V1_FMjpg_UX1000_.jpg",
       "name": "Taxi Driver",
       "suggestion": "Taxi Driver,Mobeomtaeksi",
