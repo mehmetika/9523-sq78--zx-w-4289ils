@@ -287,6 +287,28 @@
       ]
     },
     {
+      "assets": "https://www.thesportsdb.com/images/media/channel/tvlogo/1u01u91643201009.png",
+      "name": "S Sport 1(Yayın 3)",
+      "links": [
+        {
+          "linkmovie": "http://4kturkiptv.xyz:80/live/btlcanturk/290822.cbgf/807.ts",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
+      "assets": "https://www.thesportsdb.com/images/media/channel/tvlogo/1u01u91643201009.png",
+      "name": "S Sport 1(Yayın 4)",
+      "links": [
+        {
+          "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/244717.ts",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
       "assets": "https://www.thesportsdb.com/images/media/channel/tvlogo/nrrvxp1643201048.png",
       "name": "S Sport 2",
       "links": [
