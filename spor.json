@@ -276,6 +276,17 @@
       ]
     },
     {
+      "assets": "https://www.thesportsdb.com/images/media/channel/tvlogo/1u01u91643201009.png",
+      "name": "S Sport 1(Yayın 2)",
+      "links": [
+        {
+          "linkmovie": "https://playhdnew5.buzz/yayinss.m3u8",
+          "language": "",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
       "assets": "https://www.thesportsdb.com/images/media/channel/tvlogo/nrrvxp1643201048.png",
       "name": "S Sport 2",
       "links": [
