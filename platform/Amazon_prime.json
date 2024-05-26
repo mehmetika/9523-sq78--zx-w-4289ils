@@ -1,5 +1,97 @@
 {
   "channel": [
+    {
+      "assets": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/intikam-vakti-40100.jpg",
+      "name": "İntikam Vakti",
+      "suggestion": "İntikam Vakti,Wrath of Man",
+      "id": "637649",
+      "links": [
+        {
+          "linkmovie": "https://s18.imageshub.cloud/m2/I3WuqTtho2LhGJShYwVjZwRhIHWfqKWurF4kZQtjpP5RIHSZZtd0zxnJ1uM2ImnUIvYzAfo3Ixs0xi18vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+          {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/wrath_of_man/wrath_of_man.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/wrath_of_man/tur-2-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/wrath_of_man/wrath_of_man.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/wrath_of_man/eng-3.vtt"
+        }
+      ]
+    },
+ {
+      "assets": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/zindanlar-ve-ejderhalar-hirsizlar-arasindaki-onur-dungeons-dragons-honor-among-thieves-fhd-98769.jpg",
+      "name": "Zindanlar ve Ejderhalar",
+      "suggestion": "Zindanlar ve Ejderhalar,Dungeons & Dragons",
+      "id": "493529",
+      "links": [
+        {
+          "linkmovie": "https://s21.imgcache.cloud/mg/EUIhM2IioaZhEUWuM29hpl5Vo25ipv5OoJ9hMl5HnTyyqzImYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1aL2SwnTHhL2kiqJDs0xi21vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dungeons_and_dragons/dungeons_and_dragons_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dungeons_and_dragons/tur-2-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dungeons_and_dragons/dungeons_and_dragons_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/dungeons_and_dragons/eng-3.vtt"
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZTFkNmE5MjUtZDE1Yi00ZmQyLTk2YWUtN2EwODA1ZmNlOTA5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+      "name": "Pearl",
+      "suggestion": "Pearl",
+      "id": "949423",
+      "links": [
+        {
+          "linkmovie": "https://s21.imagehub.cloud/m9/HTIupzjhZwNlZv5PoUIlLKxhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhL2kiqJDs0xi21vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/pearl/pearl_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/pearl/tur-2-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/pearl/pearl_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/pearl/eng-3.vtt"
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNTFiNTMxNTQtM2EzOS00NWNhLWFmNzctNjU5ODIzNDIzMzYzXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
+      "name": "Road House",
+      "suggestion": "Road House,Bar fedaisi",
+      "id": "359410",
+      "links": [
+        {
+          "linkmovie": "https://s26.imagesbox.cloud/mo/Hz9uMP5Vo3ImMF4lZQV0YyqSDv1RGP4kZQtjpP5RIHSZd0zxnJ1uM2ImLz94YzAfo3Ixs0xi26vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/road_house/road_house_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/road_house/tur-2-default.vtt"
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/road_house/road_house_en.m3u8",
+          "language": "İngilizce Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/road_house/eng-3.vtt"
+        }
+      ]
+    },
 {
       "assets": "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
       "name": "Mr. Robot",
