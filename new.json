@@ -1,6 +1,50 @@
 {
   "channel": [
  {
+      "assets": "https://m.media-amazon.com/images/M/MV5BOTEwY2NkNjYtOTRhNy00ZTQxLTg4ODMtMzcwNzRlYjgwNjA4XkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_FMjpg_UX1000_.jpg",
+      "name": "Confidential Assignment 2",
+      "suggestion": "Gizli Atama 2,Confidential Assignment 2",
+      "id": "736820",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/confidential_assigment/confidential_assigment_2.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMzRmZTJkMjMtNzcxOC00YWRiLTkxYmItNGFmZDcyMzA1ODliXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+      "name": "Confidential Assignment",
+      "suggestion": "Gizli Atama,Confidential Assignment",
+      "id": "434119",
+      "links": [
+        {
+          "linkmovie": "https://s12.imagebin.pics/mq/E2y6oTxhE29lMKLhE29hM2ciYwVjZGphZGN4ZUNhEUIuoNd0zxnJ1uM2IvnJ4hpTywpjs0xi12vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/confidential_assigment/confidental_assigment_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/confidential_assigment/tur-1-default.vtt"
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZDE5Zjc3NjUtNmYwYS00M2IxLWFjMGMtYmI3ZWNkOTZmNWExXkEyXkFqcGdeQXVyNTAwNzc3ODg@._V1_FMjpg_UX1000_.jpg",
+      "name": "Midnight Runners",
+      "suggestion": "Geceyarısı Kaçakları,Midnight Runners",
+      "id": "453127",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/midnight_runners/midnight_runners.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
       "assets": "https://img.fullhdfilmizlesene.pw/poster/izle-lg/zindanlar-ve-ejderhalar-hirsizlar-arasindaki-onur-dungeons-dragons-honor-among-thieves-fhd-98769.jpg",
       "name": "Zindanlar ve Ejderhalar",
       "suggestion": "Zindanlar ve Ejderhalar,Dungeons & Dragons",
