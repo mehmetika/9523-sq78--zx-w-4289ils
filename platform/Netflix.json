@@ -364,10 +364,10 @@
         }
       ]
     },        
-{
+         {
       "assets": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",
       "name": "The Batman",
-      "suggestion": "The Batman, Batman",
+      "suggestion": "The Batman,Batman",
       "id": "414906",
       "links": [
         {
@@ -376,12 +376,12 @@
           "subtitle": ""
         },
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_batman/tb.m3u8",
           "language": "Türkçe Altyazı",
           "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13145622.vtt"
         },
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/rebel_moon_p2/rmp2.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_batman/tb.m3u8",
           "language": "İngilizce Altyazı",
           "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13143862.vtt"
         }
