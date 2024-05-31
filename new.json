@@ -127,12 +127,12 @@
         {
           "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_batman/tb.m3u8",
           "language": "Türkçe Altyazı",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13145622.vtt"
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_batman/tur-1-default.vtt"
         },
         {
           "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_batman/tb.m3u8",
           "language": "İngilizce Altyazı",
-          "subtitle": "https://rapidcdn.cc/sub/cache/subtitle/13143862.vtt"
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_batman/eng-3.vtt"
         }
       ]
     },
