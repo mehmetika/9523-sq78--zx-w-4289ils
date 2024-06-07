@@ -1,12 +1,284 @@
 {
   "channel": [
-    {
-      "assets": "https://m.media-amazon.com/images/M/MV5BMTdlOGJjMDItOGUyOS00OWFiLTg2NmMtMmVlOGRkZGNmNDA2XkEyXkFqcGdeQXVyMzA0OTQzODE@._V1_FMjpg_UX1000_.jpg",
-      "name": "Mavka: Ormanın Şarkısı",
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BZTUzZjU0M2MtZGFmYy00ZWU0LWJjZGUtOGJlMTI4MWI4ZDUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg",
+      "name": "Gibi",
+      "suggestion": "Gibi,As If",
+      "id": "115678",
       "links": [
         {
-          "linkmovie": "https://s18.imagescdn.cloud/mv/GJS2n2RhGTymo3MuYaOcp255LF4lZQVmYxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2ImL2EhYzAfo3Ixs0xi18vr1.m3u8",
-          "language": "Türkçe Dublaj",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(1).m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(2).m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(3).m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(4).m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(5).m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(6).m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(7).m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(8).m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(9).m3u8",
+          "language": "1. Sezon 9. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(10).m3u8",
+          "language": "1. Sezon 10. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(11).m3u8",
+          "language": "1. Sezon 11. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/1%20(12).m3u8",
+          "language": "1. Sezon 12. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(1).m3u8",
+          "language": "2. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(2).m3u8",
+          "language": "2. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(3).m3u8",
+          "language": "2. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(4).m3u8",
+          "language": "2. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(5).m3u8",
+          "language": "2. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(6).m3u8",
+          "language": "2. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(7).m3u8",
+          "language": "2. Sezon 7. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(8).m3u8",
+          "language": "2. Sezon 8. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(9).m3u8",
+          "language": "2. Sezon 9. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/2%20(10).m3u8",
+          "language": "2. Sezon 10. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(1).m3u8",
+          "language": "3. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(2).m3u8",
+          "language": "3. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(3).m3u8",
+          "language": "3. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(4).m3u8",
+          "language": "3. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(5).m3u8",
+          "language": "3. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(6).m3u8",
+          "language": "3. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(7).m3u8",
+          "language": "3. Sezon 7. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(8).m3u8",
+          "language": "3. Sezon 8. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(9).m3u8",
+          "language": "3. Sezon 9. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/3%20(10).m3u8",
+          "language": "3. Sezon 10. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(1).m3u8",
+          "language": "4. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(2).m3u8",
+          "language": "4. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(3).m3u8",
+          "language": "4. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(4).m3u8",
+          "language": "4. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(5).m3u8",
+          "language": "4. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(6).m3u8",
+          "language": "4. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(7).m3u8",
+          "language": "4. Sezon 7. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(8).m3u8",
+          "language": "4. Sezon 8. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(9).m3u8",
+          "language": "4. Sezon 9. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/4%20(10).m3u8",
+          "language": "4. Sezon 10. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(1).m3u8",
+          "language": "5. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(2).m3u8",
+          "language": "5. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(3).m3u8",
+          "language": "5. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(4).m3u8",
+          "language": "5. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(5).m3u8",
+          "language": "5. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(6).m3u8",
+          "language": "5. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(7).m3u8",
+          "language": "5. Sezon 7. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(8).m3u8",
+          "language": "5. Sezon 8. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(9).m3u8",
+          "language": "5. Sezon 9. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(10).m3u8",
+          "language": "5. Sezon 10. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(11).m3u8",
+          "language": "5. Sezon 11. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(12).m3u8",
+          "language": "5. Sezon 12. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/gibi/5%20(13).m3u8",
+          "language": "5. Sezon 13. Bölüm",
           "subtitle": ""
         }
       ]
