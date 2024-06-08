@@ -1,6 +1,58 @@
 {
   "channel": [
  {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNTcwYzdlOTktZGFiMi00MzYxLWE1MmQtNjEwYjhlNDA4OTcyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+      "name": "Periler Ülkesi ",
+      "suggestion": "Periler Ülkesi Bayala: A Magical Adventure",
+      "id": "587065",
+      "links": [
+        {
+          "linkmovie": "https://s7.imageshub.pro/ma/DzS5LJkuYxRhGJSanJAuoP5OMUMyoaE1pzHhZwNkBF5KEHVgERjhZGN4ZUNhESIOGNd0zxnJ1uM2ImnUIvYaOlojs0xi7vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZDQzZGRkMDYtMTY4MC00MzJiLWI2ZjItOTUxYTllMDc5MTkzXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_FMjpg_UX1000_.jpg",
+      "name": "Zıpır Dedektif ve Altın Arı Kovanı",
+      "suggestion": "Zıpır Dedektif ve Altın Arı Kovanı Chink: Khostatiy detektiv",
+      "id": "1017129",
+      "links": [
+        {
+          "linkmovie": "https://s25.seeshare.pics/m9/D2ucozfhF2uip3EuqTy5YzEyqTIeqTy2YwVjZwVhI0IPYHEZYwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi25vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BODYyYTYwM2YtYjIyOC00ZjE4LWJkMjktMTZjZDBiMDgxMjQ0XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg",
+      "name": "Büyük Macera 2: Sürpriz Misafir",
+      "suggestion": "Büyük Macera 2: Sürpriz Misafir Bolshoe puteshestvie. Spetsialnaya dostavka",
+      "id": "599019",
+      "links": [
+        {
+          "linkmovie": "https://s23.imagescdns.pics/mn/Dz9fp2uiMF5jqKEyp2uyp3E2nJHhH3OyqUAcLJkhLKyuYzEip3EuqzguYwVjZwVhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi23vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNzVkNjQ4NTEtZTlkOS00ZjY4LWJmOGMtODRlMzBiMGY0N2RiXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_.jpg",
+      "name": "Büyük Macera",
+      "suggestion": "Büyük Macera,Bolshoe puteshestvie",
+      "id": "533715",
+      "links": [
+        {
+          "linkmovie": "https://s24.imageshub.cloud/ma/ITuyYxWcMl5HpzyjYwVjZGxhI0IPYHEZYwRjBQOjYyEFESIPd0zxnJ1uM2ImnUIvYzAfo3Ixs0xi24vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
       "assets": "https://m.media-amazon.com/images/M/MV5BOTEwY2NkNjYtOTRhNy00ZTQxLTg4ODMtMzcwNzRlYjgwNjA4XkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_FMjpg_UX1000_.jpg",
       "name": "Confidential Assignment 2",
       "suggestion": "Gizli Atama 2,Confidential Assignment 2",
