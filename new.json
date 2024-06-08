@@ -2,7 +2,20 @@
   "channel": [
  {
       "assets": "https://m.media-amazon.com/images/M/MV5BNTcwYzdlOTktZGFiMi00MzYxLWE1MmQtNjEwYjhlNDA4OTcyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
-      "name": "Periler Ülkesi ",
+      "name": "Deneme Hay",
+      "suggestion": "deneme babs",
+      "id": "587065",
+      "links": [
+        {
+          "linkmovie": "https://eu1.tabii.com/apigateway/pbr/v1/media/324687/324685.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNTcwYzdlOTktZGFiMi00MzYxLWE1MmQtNjEwYjhlNDA4OTcyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+      "name": "Periler Ülkesi",
       "suggestion": "Periler Ülkesi Bayala: A Magical Adventure",
       "id": "587065",
       "links": [
