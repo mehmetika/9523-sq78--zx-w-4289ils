@@ -1,6 +1,44 @@
 {
   "channel": [
-{
+    {
+      "assets": "https://m.media-amazon.com/images/M/MV5BYTIzY2QzY2YtZTk3Mi00ZGViLWJhMTQtN2ZjYzMwM2E3MTQ1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+      "name": "Parasyte: The Grey",
+      "suggestion": "Parasyte: The Grey",
+      "id": "208825",
+      "links": [
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/92501/1080p.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/92501/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/92502/1080p.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/92502/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/92503/1080p.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/92503/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/92504/1080p.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/92504/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/92505/1080p.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/92505/tr.vtt"
+        },
+        {
+          "linkmovie": "https://storage.diziyou.co/episodes/92506/1080p.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": "https://storage.diziyou.co/subtitles/92506/tr.vtt"
+        }
+      ]
+    },
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BYTY2ZjYyNGUtZGVkZS00MDNhLWIwMjMtZDk4MmQ5ZWI0NTY4XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_FMjpg_UX1000_.jpg",
       "name": "The Boys",
       "suggestion": "The Boys,The Boys 2019",
@@ -126,11 +164,9 @@
           "language": "3. Sezon 8. Bölüm",
           "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_boys/3%20(8).vtt"
         }
-        
-        
       ]
     },
-{
+    {
       "assets": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8YXqUPhOCQGSzdtAtFUpmxoSCGy.jpg",
       "name": "The Lord of the Rings: The Rings of Power",
       "suggestion": "The Lord of the Rings: The Rings of Power,Yüzüklerin Efendisi: Güç Yüzükleri",
@@ -176,10 +212,9 @@
           "language": "1. Sezon 8. Bölüm",
           "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_rings_of_power/1%20(8).vtt"
         }
-        
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BODU0MmZjYjktOGQ4MS00N2QwLTk5MzQtYTRkMGRiM2Q4ZjViXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
       "name": "Tom Clancy'den Jack Ryan",
       "suggestion": "Tom Clancy'den Jack Ryan,Jack Ryan",
@@ -337,7 +372,7 @@
         }
       ]
     },
-{
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BZDVhOTczYzgtNGI2OS00ZTc5LWI5YTUtOTk3OTUzZDA1ODUwXkEyXkFqcGdeQXVyNjI4OTg2Njg@._V1_FMjpg_UX1000_.jpg",
       "name": "The Last Tycoon",
       "suggestion": "The Last Tycoon",
@@ -388,7 +423,6 @@
           "language": "1. Sezon 9. Bölüm",
           "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/main/the_last_tycoon/1%20(9).srt"
         }
-
       ]
     },
     {
