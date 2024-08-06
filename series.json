@@ -1,6 +1,54 @@
 {
   "channel": [
     {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNzQ2NTlhMzAtYTEzZC00MGZhLThmMjItZDNkZDczNjUwMzI4XkEyXkFqcGdeQXVyMTI1OTY3MzM3._V1_.jpg",
+      "name": "Death's Game",
+      "suggestion": "Death's Game",
+      "id": "218230",
+      "links": [
+        {
+          "linkmovie": "https://wdtp.site/hls/Deaths.Game.S01E01/hd/hd.m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://wdtp.site/hls/Deaths.Game.S01E02/hd/hd.m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://wdtp.site/hls/Deaths.Game.S01E03/hd/hd.m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://wdtp.site/hls/Deaths.Game.S01E04/hd/hd.m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://wdtp.site/hls/Deaths.Game.S01E05/hd/hd.m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://wdtp.site/hls/Deaths.Game.S01E06/hd/hd.m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://wdtp.site/hls/Deaths.Game.S01E07/hd/hd.m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://wdtp.site/hls/Deaths.Game.S01E08/hd/hd.m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": ""
+        }
+      ]
+    },
+    {
       "assets": "https://m.media-amazon.com/images/M/MV5BZWNmNWNkNzYtODU1NS00OWVkLWEzMDktMDkyYmE0ZjkyZjU1XkEyXkFqcGdeQXVyMTU1MDI1MjYx._V1_FMjpg_UX1000_.jpg",
       "name": "Blind",
       "suggestion": "Blind",
