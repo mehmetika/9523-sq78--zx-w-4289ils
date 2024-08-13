@@ -1,6 +1,19 @@
 {
   "channel": [
  {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZTU4NzcyZWMtYzRhNi00MGZhLWE2Y2EtZmFlMmE3ZDZhYTI0XkEyXkFqcGdeQXVyODU3NjY4Mzc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Üç Harfliler 4: Beddua",
+      "suggestion": "Üç Harfliler 4: Beddua",
+      "id": "527754",
+      "links": [
+        {
+          "linkmovie": "https://s26.photogrids.site/ml/IJZhFTSlMzkcoTIlYxWyMTE1LF4lZQR4YyqSDv1RGP4kZQtjpNd0zxpTuiqT9apzyxpl5mnKEys0xi26vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
       "assets": "https://m.media-amazon.com/images/M/MV5BNTcwYzdlOTktZGFiMi00MzYxLWE1MmQtNjEwYjhlNDA4OTcyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
       "name": "Periler Ülkesi",
       "suggestion": "Periler Ülkesi Bayala: A Magical Adventure",
