@@ -1,6 +1,19 @@
 {
   "channel": [
  {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZWE4YjMwNWQtMWY5Ni00NzM5LWEyNzgtZjI5YjhkZDJhNjc0XkEyXkFqcGdeQXVyNjA3NjUxNzE@._V1_FMjpg_UX1000_.jpg",
+      "name": "Cesur Balina Katak",
+      "suggestion": "Cesur Balina Katak",
+      "id": "1052152",
+      "links": [
+        {
+          "linkmovie": "https://s21.imglink.info/mf/F2S0LJfloTHhLaWuqzHhLzIfqJquYwVjZwZhI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1aoTyhnl5cozMis0xi21vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
       "assets": "https://m.media-amazon.com/images/M/MV5BZTU4NzcyZWMtYzRhNi00MGZhLWE2Y2EtZmFlMmE3ZDZhYTI0XkEyXkFqcGdeQXVyODU3NjY4Mzc@._V1_FMjpg_UX1000_.jpg",
       "name": "Üç Harfliler 4: Beddua",
       "suggestion": "Üç Harfliler 4: Beddua",
