@@ -61,12 +61,12 @@
           ]
         },
         {
-          "assets": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2214662/2214662-1566980884435-c02ec94f28a72.jpg",
-          "name": "FOX TV",
-          "suggestion": "FOX TV",
+          "assets": "https://play-lh.googleusercontent.com/gcb-eDybc16uY9SkMMU_zH0Sec7Q2KVdvLu4P7ToD_8tGmqmj6ILIS8t_G3KU11t_Ik",
+          "name": "NOW",
+          "suggestion": "NOW",
           "links": [
             {
-              "linkmovie": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
+              "linkmovie": "https://nowtv.blutv.com/blutv_nowtv/live_720p2000000kbps/index.m3u8",
               "language": "",
               "subtitle": ""
             }
@@ -222,7 +222,7 @@
           "suggestion": "MINIKA ÇOCUK",
           "links": [
             {
-              "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/211.ts",
+              "linkmovie": "http://373811219625878443.ofse0829.xyz:80/live/ja923593/rNe7UQ3vAD/878443.ts",
               "language": "",
               "subtitle": ""
             }
@@ -234,7 +234,7 @@
           "suggestion": "MINIKA GO",
           "links": [
             {
-              "linkmovie": "http://uzmansstvrs.xyz:80/live/Sertan-nl70/Sn-16092019/44.ts",
+              "linkmovie": "http://373811219625878444.ofse0829.xyz:80/live/ja923593/rNe7UQ3vAD/878444.ts",
               "language": "",
               "subtitle": ""
             }
