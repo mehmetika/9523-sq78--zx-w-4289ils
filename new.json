@@ -1,6 +1,58 @@
 {
   "channel": [
  {
+      "assets": "https://m.media-amazon.com/images/M/MV5BYjY3YjU0NTMtOTgzMC00YzlmLWI2ZDAtNzRkYTIwMDQwM2NkXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_FMjpg_UX1000_.jpg",
+      "name": "Çılgın Dostum Finnik",
+      "suggestion": "Çılgın Dostum Finnik",
+      "id": "597845",
+      "links": [
+        {
+          "linkmovie": "https://s23.photogrids.site/mr/EzyhozyeYwVjZwVhI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi23vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BOWFhNzA1OTQtYTA0ZS00ZDk1LWEyMGItZmFkZmU2ZjZjMWQwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+      "name": "Kahraman Kuyruklar",
+      "suggestion": "Kahraman Kuyruklar",
+      "id": "939338",
+      "links": [
+        {
+          "linkmovie": "https://s23.imgcache.cloud/m0/HTS0qTyyYzI0YzkuYzAioTIlMF5xMF5Do3AynJEiov4lZQVlYyqSDv1RGP4kZQtjpP5RIHSZd0zxnJ1aL2SwnTHhL2kiqJDs0xi23vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMTJjMzc3ZWUtZTQ5Zi00N2E2LTg3NDYtMzhmNzlhZTYwYmM5XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "name": "Kahraman Yarışçılar",
+      "suggestion": "Kahraman Yarışçılar",
+      "id": "1008102",
+      "links": [
+        {
+          "linkmovie": "https://s27.pixtureup.org/mh/ITuyYyAcoTfhHz9uMP5FLJkfrF4lZQVmYyqSDv1RGP4kZQtjpP5RIHSZd0zxpTy4qUIlMKIjYz9lMjs0xi27vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNTQ2YTg0MmYtZTMxNy00Zjg4LTk0MjUtZmJkYTQ0ZTg3MDA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Troller Hep Beraber",
+      "suggestion": "Troller Hep Beraber",
+      "id": "901362",
+      "links": [
+        {
+          "linkmovie": "https://s26.imagebin.pics/m5/IUWioTkmYxWuozDhIT9aMKEbMKVhZwNlZl5PoUIlLKxhZGN4ZUNhESIOGNd0zxnJ1uM2IvnJ4hpTywpjs0xi26vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+ {
       "assets": "https://m.media-amazon.com/images/M/MV5BMjE2MDA1MzgwMl5BMl5BanBnXkFtZTcwODg4NzAzMQ@@._V1_.jpg",
       "name": "Yenilmez 2",
       "suggestion": "Undisputed II Last Man Standing,Yenilmez 2",
