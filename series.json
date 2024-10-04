@@ -358,6 +358,132 @@
         }
       ]
     },
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BNzgxOWEwNjUtZWVmNS00MzczLWE1NjItNDEzN2Y4MWFiMzdlXkEyXkFqcGc@._V1_.jpg",
+      "name": "Sisyphus: The Myth",
+      "suggestion": "Sisyphus: The Myth",
+      "id": "113622",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(1).m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(2).m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(3).m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(4).m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(5).m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(6).m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(7).m3u8",
+          "language": "1. Sezon 7. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(8).m3u8",
+          "language": "1. Sezon 8. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(9).m3u8",
+          "language": "1. Sezon 9. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(10).m3u8",
+          "language": "1. Sezon 10. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(11).m3u8",
+          "language": "1. Sezon 11. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(12).m3u8",
+          "language": "1. Sezon 12. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(13).m3u8",
+          "language": "1. Sezon 13. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(14).m3u8",
+          "language": "1. Sezon 14. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(15).m3u8",
+          "language": "1. Sezon 15. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/sisyphus_the_myth/1%20(16).m3u8",
+          "language": "1. Sezon 16. Bölüm",
+          "subtitle": ""
+        }
+      ]
+    },
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BNWY2NDBhYTUtZTI3ZS00Zjg4LTlhM2UtZDI1M2Q1NWJkYTM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "The Bequeathed",
+      "suggestion": "The Bequeathed",
+      "id": "212553",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/the_bequeathed/1%20(1).m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/the_bequeathed/1%20(2).m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/the_bequeathed/1%20(3).m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/the_bequeathed/1%20(4).m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/the_bequeathed/1%20(5).m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/the_bequeathed/1%20(6).m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": ""
+        }
+      ]
+    },
  {
       "assets": "https://m.media-amazon.com/images/M/MV5BNDM4OGE0Y2ItNzQ4OS00YzUxLTgxYjEtZDQyOTQ1MTU5MDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "name": "if you wish upon me",
