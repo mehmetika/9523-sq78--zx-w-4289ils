@@ -5522,10 +5522,15 @@
       "id": "616037",
       "links": [
         {
-          "linkmovie": "https://s2.imageshub.cloud/m4/ITuipv5Zo3MyYzShMP5HnUIhMTIlYwVjZwVhFIqSDv1RGP4kZQtjpP5RIHRd0zxnJ1uM2ImnUIvYzAfo3Ixs0xi2vr1.m3u8",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/thor_4/thor_4_tr.m3u8",
           "language": "Türkçe Dublaj",
           "subtitle": ""
-        }
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/thor_4/thor_4_en.m3u8",
+          "language": "Türkçe Altyazı",
+          "subtitle": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/thor_4/thor_4_tr.vtt"
+        },
       ]
     },
     {
