@@ -868,98 +868,98 @@
       ]
     },
 {
-      "assets": "https://m.media-amazon.com/images/M/MV5BMWI1N2I5ZGQtNTFkMC00MjIxLTgxNTQtZTgzNDU2YjhkN2JkXkEyXkFqcGc@._V1_.jpg",
-      "name": "Gyeongseong Creature",
-      "suggestion": "Gyeongseong Creature",
-      "id": "135238",
-      "links": [
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84201/1080.m3u8",
-          "language": "1. Sezon 1. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84201/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84202/1080.m3u8",
-          "language": "1. Sezon 2. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84202/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84203/1080.m3u8",
-          "language": "1. Sezon 3. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84203/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84204/1080.m3u8",
-          "language": "1. Sezon 4. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84204/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84205/1080.m3u8",
-          "language": "1. Sezon 5. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84205/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84206/1080.m3u8",
-          "language": "1. Sezon 6. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84206/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84207/1080.m3u8",
-          "language": "1. Sezon 7. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84207/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84208/1080.m3u8",
-          "language": "1. Sezon 8. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84208/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84209/1080.m3u8",
-          "language": "1. Sezon 9. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84209/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84210/1080.m3u8",
-          "language": "1. Sezon 10. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84210/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84211/1080.m3u8",
-          "language": "2. Sezon 1. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84211/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84212/1080.m3u8",
-          "language": "2. Sezon 2. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84212/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84213/1080.m3u8",
-          "language": "2. Sezon 13. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84213/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84214/1080.m3u8",
-          "language": "2. Sezon 4. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84214/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84215/1080.m3u8",
-          "language": "2. Sezon 5. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84215/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84216/1080.m3u8",
-          "language": "2. Sezon 6. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84216/tr.vtt"
-        },
-        {
-          "linkmovie": "https://storage.diziyou.co/episodes/84217/1080.m3u8",
-          "language": "2. Sezon 7. Bölüm",
-          "subtitle": "https://storage.diziyou.co/subtitles/84217/tr.vtt"
-        }
-      ]
+  "assets": "https://m.media-amazon.com/images/M/MV5BMWI1N2I5ZGQtNTFkMC00MjIxLTgxNTQtZTgzNDU2YjhkN2JkXkEyXkFqcGc@._V1_.jpg",
+  "name": "Gyeongseong Creature",
+  "suggestion": "Gyeongseong Creature",
+  "id": "135238",
+  "links": [
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84201/1080.m3u8",
+      "language": "1. Sezon 1. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84201/tr.vtt"
     },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84202/1080.m3u8",
+      "language": "1. Sezon 2. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84202/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84203/1080.m3u8",
+      "language": "1. Sezon 3. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84203/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84204/1080.m3u8",
+      "language": "1. Sezon 4. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84204/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84205/1080.m3u8",
+      "language": "1. Sezon 5. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84205/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84206/1080.m3u8",
+      "language": "1. Sezon 6. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84206/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84207/1080.m3u8",
+      "language": "1. Sezon 7. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84207/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84208/1080.m3u8",
+      "language": "1. Sezon 8. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84208/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84209/1080.m3u8",
+      "language": "1. Sezon 9. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84209/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84210/1080.m3u8",
+      "language": "1. Sezon 10. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84210/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84211/1080.m3u8",
+      "language": "2. Sezon 1. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84211/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84212/1080.m3u8",
+      "language": "2. Sezon 2. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84212/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84213/1080.m3u8",
+      "language": "2. Sezon 13. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84213/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84214/1080.m3u8",
+      "language": "2. Sezon 4. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84214/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84215/1080.m3u8",
+      "language": "2. Sezon 5. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84215/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84216/1080.m3u8",
+      "language": "2. Sezon 6. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84216/tr.vtt"
+    },
+    {
+      "linkmovie": "https://storage.diziyou.co/episodes/84217/1080.m3u8",
+      "language": "2. Sezon 7. Bölüm",
+      "subtitle": "https://storage.diziyou.co/subtitles/84217/tr.vtt"
+    }
+  ]
+},
 {
       "assets": "https://m.media-amazon.com/images/M/MV5BYmU3MjZhNjYtODI2Yi00Nzg4LTg0NTctNWNmZDhhNmNiNWQ2XkEyXkFqcGc@._V1_.jpg",
       "name": "A Killer Paradox",
