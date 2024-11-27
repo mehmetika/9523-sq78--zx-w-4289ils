@@ -6,7 +6,11 @@
       "suggestion": "galatasaray-fenerbahçe",
       "links": [
         {
+<<<<<<< HEAD
           "linkmovie": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+=======
+          "linkmovie": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Y_pZ4_3J3Vv_IoqVE1iRe-U2r52UCOd0XcfODzJDKFzLsYheqreBt5PkgQV9Gqw1tLrQqUzi73XtNeLXmptIeQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_playlist.m3u8?type=live",
+>>>>>>> 6cd2141dae5a2bfb0537647b455e56cbbc299759
           "language": "",
           "subtitle": ""
         }
@@ -18,7 +22,7 @@
       "suggestion": "galatasaray-fenerbahçe",
       "links": [
         {
-          "linkmovie": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ISgBcFzL9gZHDJ7aOzU1B65qlmq64M1UbbTyNxiZUUDolc-ynLPsaHgHWxhWH4oahOxJrsnHfgVYWdMUcyeUxA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/05x3zgZzhnM-JqvijnNOopbyXxHo91SzDP9M2gDBSZbHZmQHmU2jgCQzt83-whrSj_L4_aiZ2PLawLNgHgAiAA/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_playlist.m3u8?type=live",
           "language": "",
           "subtitle": ""
         }
@@ -30,7 +34,7 @@
       "suggestion": "galatasaray-fenerbahçe",
       "links": [
         {
-          "linkmovie": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/OTenKQHno4LKcOCc5NaoZB4XPgNTtgZhdiOmgEfoUr2IQDJ8WY9aLEOfnlhxYF_kdsFEeDCdUv_c381LrTAQqA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+          "linkmovie": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/bDRGS0-gFhwvy13izvNeE5Mwm6EEAxRCs55qB_XL7OkPl_CibceX_zzzvTPQwuw4qFjRocgJjEmUi5EfdT_c5g/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
           "language": "",
           "subtitle": ""
         }
