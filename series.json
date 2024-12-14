@@ -983,14 +983,69 @@
       ]
     },
     {
-      "assets": "https://m.media-amazon.com/images/M/MV5BZDdiYmE3ZTgtMmMwZC00ZTY2LWI0ZmQtNmVkMDhjMGEzN2U0XkEyXkFqcGc@._V1_QL75_UY281_CR21,0,190,281_.jpg",
-      "name": "Kızıl Goncalar",
-      "suggestion": "Kızıl Goncalar",
-      "id": "241020",
+      "assets": "https://m.media-amazon.com/images/M/MV5BMjIwMDBlZjItNzMyMi00NjQwLWEzOTgtNGFmZTA0NThiMDhkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "HellBound",
+      "suggestion": "HellBound",
+      "id": "106651",
       "links": [
         {
-          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/kizil_goncalar/30.m3u8",
-          "language": "1. Sezon 30. Bölüm",
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/1%20(1).m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/1%20(2).m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/1%20(3).m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/1%20(4).m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/1%20(5).m3u8",
+          "language": "1. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/1%20(6).m3u8",
+          "language": "1. Sezon 6. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/2%20(1).m3u8",
+          "language": "2. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/2%20(2).m3u8",
+          "language": "2. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/2%20(3).m3u8",
+          "language": "2. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/2%20(4).m3u8",
+          "language": "2. Sezon 4. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/2%20(5).m3u8",
+          "language": "2. Sezon 5. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/hellbound/2%20(6).m3u8",
+          "language": "2. Sezon 6. Bölüm",
           "subtitle": ""
         }
       ]
