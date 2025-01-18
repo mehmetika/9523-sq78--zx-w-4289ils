@@ -1,5 +1,18 @@
 {
-  "channel": [
+  "channel": [ 
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BNjNmYThjN2UtODc3YS00ZDMxLTk1OGItZmM2OTFiMzJiNDg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Her Şeye Evet",
+      "suggestion": "Her Şeye Evet,Yes Day",
+      "id": "638597",
+      "links": [
+        {
+          "linkmovie": "https://p1.gamephotos.biz/v/j8wnsvyhw1k2/master.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
  {
       "assets": "https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_.jpg",
       "name": "Pokemon Dedektif Pikachu",
