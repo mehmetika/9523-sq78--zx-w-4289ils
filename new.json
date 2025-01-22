@@ -1,6 +1,19 @@
 {
   "channel": [ 
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNjczODJhYzQtZDJkZS00NjEwLTk4NjEtMmFkZGE2MmU2NzNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Cesur Kanatlar: Doğanın Sesi",
+      "suggestion": "Cesur Kanatlar: Doğanın Sesi Butterfly Tale",
+      "id": "1061728",
+      "links": [
+        {
+          "linkmovie": "https://s8.imagesbox.cloud/mh/DaI0qTIlMzk5YyEuoTHhZwNlZl5KEHVgERjhZGN4ZUNhESIOGNd0zxnJ1uM2ImLz94YzAfo3Ixs0xi8vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BZGE3MmYxOTgtMGY1Ni00ZWQ4LTlhNjAtMzcxYjIzMjcwN2U1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "name": "Harold ve Mor Tebeşir",
       "suggestion": "Harold ve Mor Tebeşir Harold and the Purple Crayon",
