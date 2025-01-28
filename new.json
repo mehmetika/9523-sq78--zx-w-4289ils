@@ -1,6 +1,19 @@
 {
   "channel": [ 
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMDU5ZTIwZTQtNWRlNC00NDM0LWE5NGMtMjg5MGNlYTgxMmM4XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+      "name": "Raya ve Son Ejderha",
+      "suggestion": "Raya ve Son Ejderha",
+      "id": "527774",
+      "links": [
+        {
+          "linkmovie": "https://s5.imagehub.pics/m7/HzS5LF5uozDhqTuyYxkup3DhEUWuM29hYwVjZwRhIHWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2IbqJVhpTywpjs0xi5vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BNjczODJhYzQtZDJkZS00NjEwLTk4NjEtMmFkZGE2MmU2NzNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "name": "Cesur Kanatlar: Doğanın Sesi",
       "suggestion": "Cesur Kanatlar: Doğanın Sesi Butterfly Tale",
