@@ -1,6 +1,19 @@
 {
   "channel": [ 
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1_FMjpg_UX1000_.jpg",
+      "name": "Baykuş Krallığı Efsanesi",
+      "suggestion": "Baykuş Krallığı Efsanesi Legend of the Guardians The Owls of Gahoole",
+      "id": "41216",
+      "links": [
+        {
+          "linkmovie": "https://s3.picogallery.org/mn/DzS5n3ImYxglLJkfnJqcYxIzp2ShMKAcYxkyM2IhMP5CMv5HnTHhE3IupzEcLJ5mYyEbMF5Cq2kmYx9zYxqunT9ioTHhZwNkZP4kZQtjpP5RqJSfd0zxpTywo2quoTkypaxho3Was0xi3vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BMDU5ZTIwZTQtNWRlNC00NDM0LWE5NGMtMjg5MGNlYTgxMmM4XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
       "name": "Raya ve Son Ejderha",
       "suggestion": "Raya ve Son Ejderha",
