@@ -1032,6 +1032,29 @@
         }
       ]
     },
+ {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNjQ2YTE0NzctOTEzZC00YTYyLTlkMzgtNTAyYmI2ZmRjNzJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Gangnam B-Side",
+      "suggestion": "Gangnam B-Side",
+      "id": "218631",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/gangam_bside/1%20(1).m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/gangam_bside/1%20(2).m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/gangam_bside/1%20(3).m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        }
+      ]
+    },
     {
       "assets": "https://m.media-amazon.com/images/M/MV5BMjIwMDBlZjItNzMyMi00NjQwLWEzOTgtNGFmZTA0NThiMDhkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "name": "HellBound",
