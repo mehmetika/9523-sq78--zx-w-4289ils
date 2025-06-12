@@ -1,6 +1,19 @@
 {
   "channel": [ 
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMTZkODJhNzAtNTYxMS00ZTNlLThhNWQtY2U5NTlkZDc4NzE5XkEyXkFqcGc@._V1_.jpg",
+      "name": "100% Kurt",
+      "suggestion": "100% Kurt 100% Wolf",
+      "id": "520946",
+      "links": [
+        {
+          "linkmovie": "https://s26.pixtureup.org/m1/ZGNjYyqioTLhZwNlZP5KEHVgERjhZGN4ZUNhESIOGP5VYwV2AP1VER0d0zxpTy4qUIlMKIjYz9lMjs0xi26vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1_FMjpg_UX1000_.jpg",
       "name": "Baykuş Krallığı Efsanesi",
       "suggestion": "Baykuş Krallığı Efsanesi Legend of the Guardians The Owls of Gahoole",
