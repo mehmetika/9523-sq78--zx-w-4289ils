@@ -1,6 +1,19 @@
 {
   "channel": [ 
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMTQ0OGMzZWEtNzM2NC00MDkwLWIwMDQtMTM0MmJhNTc1YmY3XkEyXkFqcGc@._V1_.jpg",
+      "name": "Garfield",
+      "suggestion": "Garfield",
+      "id": "748783",
+      "links": [
+        {
+          "linkmovie": "https://s25.imagescdns.pics/mf/ITuyYxqupzMcMJkxYx1iqzyyYwVjZwDhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi25vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BMTZkODJhNzAtNTYxMS00ZTNlLThhNWQtY2U5NTlkZDc4NzE5XkEyXkFqcGc@._V1_.jpg",
       "name": "100% Kurt",
       "suggestion": "100% Kurt 100% Wolf",
