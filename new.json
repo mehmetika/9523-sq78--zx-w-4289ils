@@ -1,6 +1,32 @@
 {
   "channel": [ 
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZjQwY2UyMGQtZTk3Zi00ODU4LTlkNTgtNDhmMzAwYmIwODY4XkEyXkFqcGc@._V1_.jpg",
+      "name": "Evcil Hayvanların Gizli Yaşamı 2",
+      "suggestion": "Evcil Hayvanların Gizli Yaşamı 2",
+      "id": "412117",
+      "links": [
+        {
+          "linkmovie": "https://i1.abphoto.live/fo/NNOxN9mEAeX1FXXiR0bNQf0ZQ10PwZmV9ZJaFYVgl0Cgp1YkHlYUqYX5FGBgF1Vy8Xh2z3NDOYkFlYsqlitZldj0Fvr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+{
+      "assets": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_.jpg",
+      "name": "Evcil Hayvanların Gizli Yaşamı",
+      "suggestion": "Evcil Hayvanların Gizli Yaşamı",
+      "id": "328111",
+      "links": [
+        {
+          "linkmovie": "https://i7.abphoto.pro/ft/NVDPYNAXjNYAmZAAjVmZJaFYVgj0Cgp1YkHlmUqYX5FGBgD1Vy8Ph2z3NNUbZXepqlitZldj0Fvr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BMTQ0OGMzZWEtNzM2NC00MDkwLWIwMDQtMTM0MmJhNTc1YmY3XkEyXkFqcGc@._V1_.jpg",
       "name": "Garfield",
       "suggestion": "Garfield",
