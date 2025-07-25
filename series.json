@@ -1,6 +1,35 @@
 {
   "channel": [
 {
+      "assets": "https://m.media-amazon.com/images/M/MV5BZjBlZDVlZDgtMGZlNC00OGU4LWFjZjYtZDhhY2Y1YjczMTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Dear Hongrang",
+      "suggestion": "Dear Hongrang",
+      "id": "224819",
+      "links": [
+        {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/dear_hongrang/1%20(1).m3u8",
+          "language": "1. Sezon 1. Bölüm",
+          "subtitle": ""
+        },
+ {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/dear_hongrang/1%20(2).m3u8",
+          "language": "1. Sezon 2. Bölüm",
+          "subtitle": ""
+        },
+ {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/dear_hongrang/1%20(3).m3u8",
+          "language": "1. Sezon 3. Bölüm",
+          "subtitle": ""
+        },
+ {
+          "linkmovie": "https://raw.githubusercontent.com/mehmetika/ertscx_3xc-vbai9853_m3u/refs/heads/main/dear_hongrang/1%20(4).m3u8",
+          "language": "1. Sezon 4. Bölüm",
+          "subtitle": ""
+        }
+             ]
+    },
+
+{
       "assets": "https://m.media-amazon.com/images/M/MV5BMDU1NWE0NTUtNzRlOS00MDkyLWI1ZWEtNjBkNzk3NGNjMWQyXkEyXkFqcGc@._V1_.jpg",
       "name": "When the Stars Gossip",
       "suggestion": "When the Stars Gossip",
