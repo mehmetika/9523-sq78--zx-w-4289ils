@@ -1,5 +1,18 @@
 {
   "channel": [ 
+        {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNWFlNWM2Y2YtY2VhOC00MWFiLWExNWYtYWViYzJhMDQyMTJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Yerime Geç",
+      "suggestion": "Fantastik Dörtlü: İlk Adımlar",
+      "id": "1007757",
+      "links": [
+        {
+          "linkmovie": "https://s1.imglink.info/mg/H3qupUOyMP4lZQV2YyqSDv1RGP4kZQtjpP5RIHSZYxthZwL0YHuRGF5TnKuyMNd0zxnJ1aoTyhnl5cozMis0xi1vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
     {
       "assets": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_.jpg",
       "name": "K-Pop: İblis Avcıları",
