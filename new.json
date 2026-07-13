@@ -1,5 +1,18 @@
 {
   "channel": [ 
+            {
+      "assets": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_.jpg",
+      "name": "Ters Yüz 2",
+      "suggestion": "Ters Yüz 2 Inside Out 2",
+      "id": "1022789",
+      "links": [
+        {
+          "linkmovie": "https://s13.pixtures.art/mo/FJ5mnJEyYx91qP4lYwVjZwDhI0IPYHEZYwRjBQOjYxEIDHjd0zxpTy4qUIlMKZhLKW0s0xi13vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
         {
       "assets": "https://m.media-amazon.com/images/M/MV5BNWFlNWM2Y2YtY2VhOC00MWFiLWExNWYtYWViYzJhMDQyMTJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "name": "Yerime Geç",
