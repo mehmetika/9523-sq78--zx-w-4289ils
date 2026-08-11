@@ -1,5 +1,18 @@
 {
   "channel": [ 
+                        {
+      "assets": "https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_.jpg",
+      "name": "The Devil's Advocate",
+      "suggestion": "The Devil's Advocate,Şeytanın Avukatı",
+      "id": "1813",
+      "links": [
+        {
+          "linkmovie": "https://tiktoks.animanga.fun/hls/aHR0cHM6Ly9oZDR1LnNicy9obHNtb2QvcDE2LWFkLXNpdGUtc2lnbi1zZy50aWt0b2tjZG4uY29tL0lRVWEyWF92Q0pKUFBaNm04dzJ1QVEveHkvMXhtbGY5NmIvdDFvbmF2L3R0L21hc3Rlci5tM3U4P3Y9MTc2NjgyNjQ5Mg/master.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
                     {
       "assets": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_.jpg",
       "name": "Pi'nin Yaşamı",
