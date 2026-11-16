@@ -1,5 +1,18 @@
 {
   "channel": [ 
+                            {
+      "assets": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_FMjpg_UX1000_.jpg",
+      "name": "The Incredible Hulk",
+      "suggestion": "The Incredible Hulk",
+      "id": "1724",
+      "links": [
+        {
+          "linkmovie": "https://s5.cdnimgs9988.shop/m7/ITuyYxyhL3WyMTyvoTHhFUIfnl4lZQN4YxWfqKWurF4kZQtjpP5RIHSZd0zxL2EhnJ1apmx5BQthp2uipNs0xi5vr1.m3u8",
+          "language": "Türkçe Dublaj",
+          "subtitle": ""
+        }
+      ]
+    },
                         {
       "assets": "https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_.jpg",
       "name": "The Devil's Advocate",
